@@ -6,7 +6,7 @@ TUTORIAL
 
 2. Clone the repository by typing in terminal:
 
-   git clone https://github.com/ViktorBoutros/OskarStuff.git
+      git clone https://github.com/ViktorBoutros/OskarStuff.git
 
    This creates a directory called "OskarStuff" on your computer.
 
