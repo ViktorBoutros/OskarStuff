@@ -1,11 +1,11 @@
 # OskarStuff
 
-TODO
+TUTORIAL
 
-1. Download and install github
+1. Download and install git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 2. Clone the repository by typing in terminal:
-   git clone
+   git clone https://github.com/ViktorBoutros/OskarStuff.git
    This creates a directory called "OskarStuff" on your computer.
 
 3. Open OskarStuff in your Text Editor of choice.
