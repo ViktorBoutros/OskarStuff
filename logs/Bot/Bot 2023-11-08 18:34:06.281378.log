@@ -1,7 +1,0 @@
-2023-11-08 18:34:06 LogWapper init() ./logs/Bot/Bot 2023-11-08 18:34:06.281378.log
-2023-11-08 18:34:06 parsing msg s = '🆕 BUY JP225 @ 31500 / TPs: 31700 - 31900 - 32100 / SL: 31300'
-2023-11-08 18:34:06 Message parsing successful.
-trade = {'units': 1, 'pair': 'JP225_USD', 'TP': 31700.0, 'SL': 31300.0}
-2023-11-08 18:34:06 parsing msg s = '🆕 SELL USOIL @ 81.50 / TPs: 80.00 - 79.00 - 77.50 / SL: 83.00'
-2023-11-08 18:34:06 Message parsing successful.
-trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 80.0, 'SL': 83.0}

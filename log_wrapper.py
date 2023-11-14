@@ -8,7 +8,8 @@ class LogWrapper():
     def __init__(self, name, time, mode="w"):
         self.create_directory()    
         self.create_subdirectory(name)
-        self.filename = f'./logs/{name}/{name} {time}.log'   
+        date = str(time.day) + "-" + str(time.month) + "-" + str(time.year) + "_" + str(time.hour)
+        self.filename = f'./logs/{name}/{name} {date}.log'   
         self.logger = logging.getLogger(name)  
         self.logger.setLevel(DEFAULT_LEVEL)
         
@@ -29,8 +30,7 @@ class LogWrapper():
             os.makedirs(path)
 
 if __name__ == "__main__":
-    log = LogWrapper(name="Test")
-    log.logger.debug("HELLO")
+    pass
 
 
 
