@@ -1,0 +1,3 @@
+2023-12-14 09:20:34 LogWapper init() ./logs/Trade Messages/Trade Messages 14-12-2023_9.log
+2023-12-14 19:57:56 SUCCESS: 🆕 SELL NASDAQ @ 16530 / TPs: 16350 - 16050 - 15850 / SL: 16700
+{'units': -1, 'pair': 'NAS100_USD', 'TP': 16350.0, 'SL': 16700.0}

@@ -1,0 +1,264 @@
+2023-12-12 06:18:19 LogWapper init() ./logs/Bot/Bot 12-12-2023_6.log
+2023-12-12 06:18:19 Starting Tests...
+2023-12-12 06:18:19 parsing msg s = '🆕 BUY JP225 @ 31500 / TPs: 31700 - 31900 - 32100 / SL: 31300'
+2023-12-12 06:18:19 Message parsing successful.
+trade = {'units': 1, 'pair': 'JP225_USD', 'TP': 31700.0, 'SL': 31300.0}
+2023-12-12 06:18:19 parsing msg s = '🆕 SELL USOIL @ 81.50 / TPs: 80.00 - 79.00 - 77.50 / SL: 83.00'
+2023-12-12 06:18:19 Message parsing successful.
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 80.0, 'SL': 83.0}
+2023-12-12 06:18:19 All tests passed!
+
+2023-12-12 06:42:19 Recieved message: I’m from Australia. Coinspot and crypto.com work
+2023-12-12 06:47:19 Recieved message: hmmm, coinzoom won't let me withdraw funds for another 90 days....just a word of warning to anyone else using coinzoom! was only $97usd so lucky it wasn't heaps more than that!
+2023-12-12 06:58:19 Recieved message: thanks Talisse...i have coinspot also but haven't funded it yet.  All i want to do is get bitcoin so I can transfer it to finesse fx as they don't accept regular money. they don't make it easy lol
+2023-12-12 07:01:19 Recieved message: AUDNZD
+Buy Now @ 1.07084
+SL @ 1.06728 (-35pips)
+TP 1@ 1.07584 (+50pips)
+TP 2 @ later
+2023-12-12 07:06:19 Recieved message: 
+2023-12-12 07:06:19 Recieved message: 
+2023-12-12 10:55:22 Recieved message: Hi Leona I sent you a DM
+2023-12-12 11:16:23 Recieved message: Responded ✅
+2023-12-12 11:32:02 Recieved message: ￼Ønsk Maria Ellaine Fossøy Velkommen til det Norske teamet🙏🏾❤️
+2023-12-12 11:32:28 Recieved message: Velkommen Maria🥰⚡️
+2023-12-12 11:33:04 Recieved message: Velkommen!!❤️‍🔥
+2023-12-12 11:36:49 Recieved message: Velkommen
+2023-12-12 11:44:14 Recieved message: Tusen takk 🤝🏼✨
+2023-12-12 11:50:49 Recieved message: Hi ladies, can’t seem to find the option for eminus and manara telegram accounts in the office. Got kicked again lol. From what i remember, it’s just under “tools”. 😄
+2023-12-12 11:51:08 Recieved message: 
+2023-12-12 11:51:24 Recieved message: 🆕 SELL DAX40 @ 16750 / TPs: 16600 - 16500 - 16400 / SL: 16900
+2023-12-12 11:51:24 Creating trade...
+2023-12-12 11:51:24 parsing msg s = '🆕 SELL DAX40 @ 16750 / TPs: 16600 - 16500 - 16400 / SL: 16900'
+2023-12-12 11:51:24 Message parsing successful.
+trade = {'units': -1, 'pair': 'DE30_EUR', 'TP': 16600.0, 'SL': 16900.0}
+2023-12-12 11:51:24 Placing trade: {'units': -1, 'pair': 'DE30_EUR', 'TP': 16600.0, 'SL': 16900.0}
+2023-12-12 11:51:24 create_trade(): Starting with t = {'units': -1, 'pair': 'DE30_EUR', 'TP': 16600.0, 'SL': 16900.0}
+2023-12-12 11:51:25 Opened trade 13182 : {'units': -1, 'pair': 'DE30_EUR', 'TP': 16600.0, 'SL': 16900.0}
+2023-12-12 11:51:25 Successfully placed trade
+trade = {'units': -1, 'pair': 'DE30_EUR', 'TP': 16600.0, 'SL': 16900.0}
+2023-12-12 11:52:00 Recieved message: if it’s not showing it means you need to pay your subscription
+2023-12-12 11:52:17 Recieved message: Eaconomy will automatically remove the products and services from your tabs if you haven’t paid
+2023-12-12 11:52:21 Recieved message: Ohh i just renewed it weird
+2023-12-12 11:52:33 Recieved message: Ill contact supp 🙂
+2023-12-12 11:52:34 Recieved message: If you just renewed it, log out and then log back in
+2023-12-12 11:52:53 Recieved message: Ok ok
+2023-12-12 11:56:02 Recieved message: Thank you ☺️
+2023-12-12 12:01:54 Recieved message: Velkommen❤️
+2023-12-12 12:11:13 Recieved message: Welcome!!
+2023-12-12 12:16:23 Recieved message: Hey how do we add funds to our live account? Like where do we get the bitcoin to transfer to the live acct which I believe is finesse fix that I’m using? Sorry I’m new and a little loss
+2023-12-12 12:51:23 Recieved message: You can get the bitcoin by purchasing it through your cash app, Coinbase, etc….whatever platform you use and then transfer it from there to your finesse wallet
+2023-12-12 13:05:24 Recieved message: In my live account, I am only seeing bitcoin pairs. It's not allowing me to add forex currency pairs in mt5. Anyone knows why?
+2023-12-12 13:11:25 Recieved message: Ønsk Synne velkommen til det norske teamet 😍😍
+2023-12-12 13:11:47 Recieved message: Vellommen Synne❤️‍🔥
+2023-12-12 13:11:58 Recieved message: Velkomennnn<3
+2023-12-12 13:12:07 Recieved message: Velkommen 💯
+2023-12-12 13:12:14 Recieved message: Velkommen❤️
+2023-12-12 13:12:18 Recieved message: Velkommen Synne!🤩
+2023-12-12 13:15:10 Recieved message: Trade closed @ TP1 👉 Price at entry again
+2023-12-12 13:15:54 Recieved message: Velkommen🥰
+2023-12-12 13:19:24 Recieved message: Can someone have problem with Manara? They just loading and loading after putting a pin.
+2023-12-12 13:19:41 Recieved message: Velkommen🤍
+2023-12-12 13:20:16 Recieved message: CPI in 10 minutes. Follow up guys 👍
+2023-12-12 13:24:24 Recieved message: Me too
+2023-12-12 13:25:45 Recieved message: Tusen takk🥰
+2023-12-12 13:33:20 Recieved message: Thanks Nic I was scared to use cash app at first
+2023-12-12 13:33:20 Recieved message: You're welcome
+2023-12-12 13:33:51 Recieved message: Velkommen🎉
+2023-12-12 13:33:54 Recieved message: 🆕 SELL GOLD @ 1990 / TPs: 1980 - 1965 - 1950 / SL: 2000
+2023-12-12 13:33:54 Creating trade...
+2023-12-12 13:33:54 parsing msg s = '🆕 SELL GOLD @ 1990 / TPs: 1980 - 1965 - 1950 / SL: 2000'
+2023-12-12 13:33:54 Message parsing successful.
+trade = {'units': -1, 'pair': 'XAU_USD', 'TP': 1980.0, 'SL': 2000.0}
+2023-12-12 13:33:54 Placing trade: {'units': -1, 'pair': 'XAU_USD', 'TP': 1980.0, 'SL': 2000.0}
+2023-12-12 13:33:54 create_trade(): Starting with t = {'units': -1, 'pair': 'XAU_USD', 'TP': 1980.0, 'SL': 2000.0}
+2023-12-12 13:33:55 Opened trade 13186 : {'units': -1, 'pair': 'XAU_USD', 'TP': 1980.0, 'SL': 2000.0}
+2023-12-12 13:33:55 Successfully placed trade
+trade = {'units': -1, 'pair': 'XAU_USD', 'TP': 1980.0, 'SL': 2000.0}
+2023-12-12 13:34:24 Recieved message: Nic do you use pluotos
+2023-12-12 13:37:24 Recieved message: Yes. Just got in on a good trade he just sent out
+2023-12-12 13:39:24 Recieved message: Ok I was trying to see if I should do pluotus or eacho or both
+2023-12-12 13:40:24 Recieved message: I don't know anything about eacho but plouts is good. He's been having a solid month so far. Worth it to me
+2023-12-12 13:47:03 Recieved message: +70 ✅
+2023-12-12 14:03:39 Recieved message: Not been happy with Eacho so far. Still have it on a Demo on Eacho 2. I think I might try Poltus and stop Eacho until it gets better.
+2023-12-12 14:05:24 Recieved message: I was never able to connect and use it so i stoped Eacho and got on ploutos👍 happy so far
+2023-12-12 14:06:19 Recieved message: 🆕 SELL USOIL @ 70.00 / TPs: 68.50 - 67.50 - 66.50 / SL: 72.00
+2023-12-12 14:06:19 Creating trade...
+2023-12-12 14:06:19 parsing msg s = '🆕 SELL USOIL @ 70.00 / TPs: 68.50 - 67.50 - 66.50 / SL: 72.00'
+2023-12-12 14:06:19 Message parsing successful.
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 68.5, 'SL': 72.0}
+2023-12-12 14:06:19 Placing trade: {'units': -1, 'pair': 'BCO_USD', 'TP': 68.5, 'SL': 72.0}
+2023-12-12 14:06:19 create_trade(): Starting with t = {'units': -1, 'pair': 'BCO_USD', 'TP': 68.5, 'SL': 72.0}
+2023-12-12 14:06:20 Opened trade 13190 : {'units': -1, 'pair': 'BCO_USD', 'TP': 68.5, 'SL': 72.0}
+2023-12-12 14:06:20 Error placing TP or SL
+ok = False
+2023-12-12 14:06:20 Successfully placed trade
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 68.5, 'SL': 72.0}
+2023-12-12 14:16:25 Recieved message: I also stoped Eacho. I hope later it will get better succes
+2023-12-12 14:19:25 Recieved message: Is Manara not launching for anyone else? I’ve been trying all morning, is it just a problem on my end?
+2023-12-12 14:20:25 Recieved message: Some of the symbols are not in my MT5 , is it because I’m using vantage as my broker? I’m in Jamaica
+2023-12-12 14:23:33 Recieved message: ManaraFX its not working? Or is just me
+2023-12-12 14:33:57 Recieved message: 🆕 SELL US30 @ 36400 / TPs: 36250 - 36100 - 36000 / SL: 36550
+2023-12-12 14:33:57 Creating trade...
+2023-12-12 14:33:57 parsing msg s = '🆕 SELL US30 @ 36400 / TPs: 36250 - 36100 - 36000 / SL: 36550'
+2023-12-12 14:33:57 Message parsing successful.
+trade = {'units': -1, 'pair': 'US30_USD', 'TP': 36250.0, 'SL': 36550.0}
+2023-12-12 14:33:57 Placing trade: {'units': -1, 'pair': 'US30_USD', 'TP': 36250.0, 'SL': 36550.0}
+2023-12-12 14:33:57 create_trade(): Starting with t = {'units': -1, 'pair': 'US30_USD', 'TP': 36250.0, 'SL': 36550.0}
+2023-12-12 14:33:57 Opened trade 13195 : {'units': -1, 'pair': 'US30_USD', 'TP': 36250.0, 'SL': 36550.0}
+2023-12-12 14:33:57 Successfully placed trade
+trade = {'units': -1, 'pair': 'US30_USD', 'TP': 36250.0, 'SL': 36550.0}
+2023-12-12 14:36:47 Recieved message: TP1 +100 ✅
+2023-12-12 14:41:25 Recieved message: This is why I'm glad I'm in this community! Done for today!
+2023-12-12 14:47:47 Recieved message: Try logging out completely closing out and giving it a a second then go back in
+2023-12-12 14:48:02 Recieved message: Good Morning yall 🙌
+2023-12-12 14:48:16 Recieved message: 
+2023-12-12 14:48:43 Recieved message: It’s Tuesday and you know what that means!
+2023-12-12 14:49:47 Recieved message: +90 ✅
+2023-12-12 14:50:54 Recieved message: ITS MOTIVATION TUESDAY! 
+
+tell yourself out loud that you are worth a million bucks! Keep on saying it over and over till you feel good hype yourself up today! 💕 
+
+Here at 1V 
+We are a FAM 
+We are an EMPIRE 
+We will GRIND
+We will SHINE 
+Letttssss goooo!!!! 🙌🙌
+2023-12-12 15:08:22 Recieved message: LOVE THIS!!! ♥️🏆
+2023-12-12 15:09:25 Recieved message: Yes it’s based on your broker
+2023-12-12 15:12:25 Recieved message: Ploutos has been around longer than Eacho.   I personally don’t see Eacho working too well.  Doesn’t seem like folks are having any success with it.   
+
+As for Ploutos, I find it faster but trades are not really explained.  It is often hard to keep up and understand.   It also needs an account that is well funded
+
+If folks are having a hard time getting the broker accounts set up or a hard time figuring out Manera, I would HIGHLY recommend staying away from both Plutos and Eacho.   Learn how to get your account set up and where to find training first
+2023-12-12 15:13:25 Recieved message: Who is your broker and what are you trying to add ?
+2023-12-12 15:14:25 Recieved message: I use cash app to buy the Bitcoin and then transfer it to my Finesse wallet.   Once cleared I move it from my wallet to my account(s)
+2023-12-12 15:15:55 Recieved message: Same with mine
+2023-12-12 15:17:25 Recieved message: To show anyone can really do this.   I tossed $10 into an account yesterday and made a couple trades.     Focused on 2 pairs.   This was in 2 days time.
+2023-12-12 15:19:25 Recieved message: This was a live account.    I would NOT recommend doing this for newer folks but is posted to show you don’t need $1000s or to learn 5-10 pairs and bounce around.   
+
+$10…..2 pairs….2 days…..
+2023-12-12 15:26:25 Recieved message: I am new and my manara is not sending out signals to my telegram can I get some advice on how to have it working.
+2023-12-12 15:27:25 Recieved message: Have you gone into the group and triggered the alert bot with your email and pin ?
+2023-12-12 15:33:01 Recieved message: In my mt5, it’s not showing dollar amount only btc.  How can I change that
+2023-12-12 15:33:27 Recieved message: You have to open a usd live account
+2023-12-12 15:36:55 Recieved message: Same with mine
+2023-12-12 15:38:34 Recieved message: If your MANARA FX isn’t working pls follow these steps! I do apologize for any inconvenience .
+2023-12-12 15:39:26 Recieved message: Yes and nothing happens
+2023-12-12 15:41:26 Recieved message: What are your Manera settings.    Like if you only have a couple pairs on a 1 or 4 hr, with specific patterns there may not be any alerts
+2023-12-12 15:41:26 Recieved message: When did you get the bot set up ?
+2023-12-12 15:41:26 Recieved message: Try this video. I made this. See if it helps
+2023-12-12 15:42:26 Recieved message: Got it done yesterday
+2023-12-12 15:43:26 Recieved message: Ok.  It’s possible there have not been any based on your settings
+2023-12-12 16:00:26 Recieved message: Anyone have tips on how to know when to close a sale ? I know the stop loss will do it for you however yesterday I was profiting about$100 but it ended up going back down to like  $12 because I didn’t close in time I guess so I regretting not closing the sale .
+2023-12-12 16:02:26 Recieved message: Set your tp and it close out in profit
+2023-12-12 16:04:26 Recieved message: What happened when you closed out, did it hit your tp?
+2023-12-12 16:07:26 Recieved message: I am putting the stop loss and take profit from the very beginning however, I guess it never hit take profit or stop loss
+2023-12-12 16:09:26 Recieved message: But there was opportunity for profit the price was profitable at one point so I guess I feel like I should’ve took it ? Or is it just a waiting game should I just have held ?
+2023-12-12 16:10:26 Recieved message: Taking the alerts from the experts or your own analysis?
+2023-12-12 16:11:26 Recieved message: I would suggest, next time you're in profit 100 get out and live to trade another day. Money will come. Trust me. Patience is key in this game.
+2023-12-12 16:12:26 Recieved message: This was on the gold sale yesterday from experts the XAU one If I remember correctly
+2023-12-12 16:12:26 Recieved message: Normally I'd hold onto what the experts say and let it ride out because the market does up and down.
+2023-12-12 16:12:26 Recieved message: I was waiting for a message to advise to sell but it didn’t come so I just sold 😩 next time I’ll hold
+2023-12-12 16:14:26 Recieved message: Yes go in for the sell right away then go to your trade and click on it then modify it to put your sl n tp in. You hit the sell button when they say to do then modify your trade to enter sl n tp they recommend.
+2023-12-12 16:14:26 Recieved message: Yeah. Wait for the message for gold. You in ploutos channel?
+2023-12-12 16:15:26 Recieved message: I don’t believe I am on ploutos channel
+2023-12-12 16:15:26 Recieved message: Got it thank you 😩
+2023-12-12 16:17:26 Recieved message: Ploutos you have to pay 25 a month but worth it bc he is the gold Guru for alerts. He's having a great month so far. With manara trades ideas & sessions, they don't come out as quick as pluotos but they are consistent. I trust ploutos more for gold
+2023-12-12 16:19:26 Recieved message: Oh okay yes I will be sure to invest in that is there a link you can share please?
+2023-12-12 16:20:26 Recieved message: I have taken gold and other trades with manaras alerts. They came out with profits.
+2023-12-12 16:22:26 Recieved message: Go into your backoffice, then go to orders then place an order. Then find ploutos channel. Then purchase
+2023-12-12 16:22:26 Recieved message: I’ll have do more research to learn which trades are gold I’m still learning 😭
+2023-12-12 16:23:26 Recieved message: Xauusd is gold
+2023-12-12 16:25:26 Recieved message: It takes time. Don't rush it. I only take the experts alerts because I haven't learned enough about trading to do my own. I'll be on a demo for that until I'm comfortable doing it on my own
+2023-12-12 16:27:27 Recieved message: Same here I’ll be more patient moving forward 🫨🥰
+2023-12-12 16:49:26 Recieved message: Is there a video on how to set up echo if we do have one where can I access it?
+2023-12-12 16:50:27 Recieved message: I used the video to set the manara system and no difference not sure what else to do
+2023-12-12 16:59:27 Recieved message: Contact support
+2023-12-12 17:02:27 Recieved message: This is all part of the training and experience.   Learn candles, support & resistance and stuff.   Trades do not always hit TP.   Mike your SL to stay in profit if you want.   There is no real end all, be all answer.    
+
+Alittle of something is better than a lot of nothing.  
+
+You were up $100.   How big is your account ?    Up $100 on a $500 or $1000 account is huge.   $100 on a $100,000 account is nothing
+2023-12-12 17:14:27 Recieved message: Hi guy's which eacho is the best to use?
+2023-12-12 17:21:27 Recieved message: Gotcha I need to learn the candles forsure I am also still in demo
+2023-12-12 17:25:02 Recieved message: 🆕 SELL BTCUSD @ 41000 / TPs: 40000 - 39000 - 38000
+2023-12-12 17:25:43 Recieved message: SL -150 🚫
+2023-12-12 17:43:27 Recieved message: Ralph mentioned that Eacho 3 trades exactly the way he does, however I haven’t been really hearing anything good about Eacho yet so I paused mines until it gets better, I been sticking around with Ploutos 🔥
+2023-12-12 17:44:27 Recieved message: You also need to be able to control your greed.
+2023-12-12 17:44:53 Recieved message: TP1 +150 ✅
+2023-12-12 17:47:27 Recieved message: It would be interesting to know if Ralph actually uses that or not. Just because it trades similar to how he trades doesn’t necessarily mean he’s using it nor does it mean that it actually works or is good for the common man.
+2023-12-12 18:00:28 Recieved message: Right but he said he used it when asked. How good or efficient it works? That remains to be seen.
+2023-12-12 18:12:25 Recieved message: Velkommen 🤗
+2023-12-12 18:12:25 Recieved message: Right no and no one really has reported any success with the program
+2023-12-12 18:19:11 Recieved message: HEY GUYSSS , please help me wish Jaycob a HAPPY LATE BIRTHDAY! 🏆 He officially started his live trading account today and he’s also a new affiliate to the team 😮‍💨 super excited to see him grow in both journeys! Can’t wait to see you succeed with us! 🎉🎂🎈
+2023-12-12 18:22:12 Recieved message: Thank you 🙏🏽
+2023-12-12 18:22:46 Recieved message: What are the settings we should use? I'm planning on starting my live account today 🙌
+2023-12-12 18:25:28 Recieved message: Exactly
+2023-12-12 18:26:44 Recieved message: Happy Birthday Jaycob🥳🥳
+I hope you had an Amazing and Blessed birthday and I pray that you have many more years to celebrate🥳🥳
+
+Congratulations on starting your live trading account and on becoming an affiliate🍾🥂
+I know that you are going to love the experience and achieve every one of your goals and help many others as well🍾🥂
+2023-12-12 18:45:41 Recieved message: 2 days trading on my demo account. Almost ready to go live.
+2023-12-12 18:45:41 Recieved message: 
+2023-12-12 18:47:56 Recieved message: LETS FREAKING GO! And you haven’t even started a week ago! You’re doing so great!!! 🤩🤩🤩
+2023-12-12 18:55:35 Recieved message: So inspiring!!🤩🥹🙏🏻 I am about to start !
+2023-12-13 03:09:27 Recieved message: AUDNZD didn't hit SL, currently about +22pips, if hit SL for you consider to change your broker
+2023-12-13 03:09:27 Recieved message: Big time!, lot size a little too high but if you know what your doing it's okay..
+2023-12-13 03:09:27 Recieved message: Happy birthday!! 🎁 ✨ Happy to have you here! 🫶🏼
+2023-12-13 03:09:27 Recieved message: Happy Birthday Jaycob 🥳🎁, excited to see your growth 🔥
+2023-12-13 03:09:27 Recieved message: Happy Birthday 🎉🎂
+2023-12-13 03:09:27 Recieved message: Happy birthday Jaycob!😀
+2023-12-13 03:09:27 Recieved message: Happy Birthday 🎁🎉🎊
+2023-12-13 03:09:27 Recieved message: Anyone have this issue?
+2023-12-13 03:09:27 Recieved message: HAPPY BIRTHDAY JAYCOB! 🥳
+2023-12-13 03:09:27 Recieved message: MT5 will be available soon
+2023-12-13 03:09:27 Recieved message: It’s not yet. They’re integrating it into the eacho dashboard
+2023-12-13 03:09:27 Recieved message: Thank you for the update
+2023-12-13 03:09:27 Recieved message: I can only withdraw my profits in bitcoin, does anyone recommend an app to send it to which has low fees for withdrawing bitcoin?
+2023-12-13 03:09:27 Recieved message: This is where having a trading plan can really help and guide you. I am currently on a small trading plan where I’m aiming to make $20 a day and I’m happy to risk $5 in stop loss to make $20. If one trade hits $20 even if it’s still going up I’ll close out and I’m done for the day. As you hit your trading plan goals you can start to increase your goals. There’s a great training in the ECA that Ralph does about trading plans and risk management to help guide you 🙏🏻 All the training to understand trades, Manara, candles, trends etc are all set up in ECA. I’ve found them to be really helpful ☺️
+2023-12-13 03:09:27 Recieved message: Great logic I’m writing these things down so I can make a plan for myself as well thank you 😌
+2023-12-13 03:09:27 Recieved message: This.  All of this
+2023-12-13 03:09:27 Recieved message: I use Cashapp.   I will also make deposits/withdrawals by following BTC.  When BTC is up I’ll withdraw.   When it’s down I’ll buy
+2023-12-13 03:09:27 Recieved message: Does it make a significant difference if you transfer it to your personal bank immediately after?
+2023-12-13 03:09:27 Recieved message: For me no as I tx cash back and forth.
+2023-12-13 03:09:27 Recieved message: I don’t wait or even set SL for these.  I get into profit and move my SL so it’s basically risk free trade.   The account is only $10 so at $0.50 profit is 5% 
+
+10 $0.50 wins is $5 and. Do that for 2 days an I doubled my account 
+
+It’s repetitive so if my account is $100 I can nearly double it in 2-3 days
+2023-12-13 03:09:27 Recieved message: Had anyone ever tried depositing with vantage and gets this error message ?
+2023-12-13 03:09:27 Recieved message: Yeah haopend a couple of times 
+Vantage doesn’t suport some bank cards 
+Just try IT with a different one
+2023-12-13 03:09:27 Recieved message: Okay thank you
+2023-12-13 03:09:27 Recieved message: I am having issue withdrawing from Vantage with my bank card that was used to do the deposit. What is the best way to do a withdrawal?
+2023-12-13 03:09:27 Recieved message: Is it too late to pick up trade on XAUUSD gold today ?
+2023-12-13 03:09:27 Recieved message: i think soo
+2023-12-13 03:09:27 Recieved message: Yes
+2023-12-13 03:09:27 Recieved message: Are we allowed to post team results to insta?? :)
+2023-12-13 03:09:27 Recieved message: I think so yeah🤔
+2023-12-13 03:09:27 Recieved message: Best it to look at it and analysis it when you see it.   Sometimes it’s good for mins….sometime hours
+2023-12-13 03:09:27 Recieved message: good evening, i was wondering if someone could help me cancel my subscription? i love what this organization does but i personally haven’t learned much more than i already know abt trading and i didn’t realize that this was a subscription type deal :/
+2023-12-13 03:09:27 Recieved message: Yes just need a disclaimer on the post to!
+2023-12-13 03:09:27 Recieved message: I guess just don’t renew your subscription autoship date. Maybe gotta block it from auto processing from your bank or just contact support.
+2023-12-13 03:09:27 Recieved message: You can delete your subscription from your back office under orders or autoship I believe
+2023-12-13 03:09:27 Recieved message: Gold is up now, wow! Just a tiny bit😂
+2023-12-13 03:09:27 Recieved message: I’m staring at right now haha
+2023-12-13 03:09:27 Recieved message: 🥲
+2023-12-13 03:09:27 Recieved message: Charts have played with my heart today. Hoping for a fresh start tomorrow.
+2023-12-13 03:09:27 Recieved message: Where can I find Ralph’s telegram channel
+2023-12-13 03:09:27 Recieved message: Today, I’m having to remind myself that results are just about being in the right position at the right time. Its an objective game and I can’t let my feelings get in the way. Just do everything in my power to be  smart and calculated, and take what comes from there as continue learning opportunities. 🫡
+2023-12-13 03:09:27 Recieved message: Log in portal , click on forex - ECA - log in and click on master class you’ll find it in the calendar
+2023-12-13 03:09:27 Recieved message: Thank you so much!
+2023-12-13 03:09:27 Recieved message: Oh I read that wrong that’s for the live sessions, The channels are under forex then click manara you’ll find the telegram links for both
+2023-12-13 03:09:27 Recieved message: Wait for those alerts! I am. Its so difficult though 😂
+2023-12-13 03:09:27 Recieved message: Same
+2023-12-13 03:09:27 Recieved message: Sooo when can we expect eacho with mt5?
+2023-12-13 03:09:27 Recieved message: Velkomen!:)
+2023-12-13 03:09:27 Recieved message: Velkommen dere
+2023-12-13 03:09:27 Recieved message: Noen spennende planner in the making for Norge! Info kommer engang neste uke! ❤️❤️
+2023-12-13 03:09:27 Recieved message: Velkommen alle! 
+Gleder meg til tiden fremover guyyys! Blir rått

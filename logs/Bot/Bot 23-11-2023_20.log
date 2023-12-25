@@ -1,0 +1,137 @@
+2023-11-23 20:09:18 LogWapper init() ./logs/Bot/Bot 23-11-2023_20.log
+2023-11-23 20:09:18 Starting Tests...
+2023-11-23 20:09:18 parsing msg s = '🆕 BUY JP225 @ 31500 / TPs: 31700 - 31900 - 32100 / SL: 31300'
+2023-11-23 20:09:18 Message parsing successful.
+trade = {'units': 1, 'pair': 'JP225_USD', 'TP': 31700.0, 'SL': 31300.0}
+2023-11-23 20:09:18 parsing msg s = '🆕 SELL USOIL @ 81.50 / TPs: 80.00 - 79.00 - 77.50 / SL: 83.00'
+2023-11-23 20:09:18 Message parsing successful.
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 80.0, 'SL': 83.0}
+2023-11-23 20:09:18 All tests passed!
+
+2023-11-23 20:42:14 Recieved message: Ønsk Helene velkommen til oss❤️🇳🇴
+2023-11-23 21:18:50 Recieved message: Velkommen ❤️
+2023-11-24 02:44:21 Recieved message: Everyone please help me welcome my girl Alice Her !❤️‍🔥❤️‍🔥
+2023-11-24 02:44:21 Recieved message: welcome to the fammm
+2023-11-24 02:44:21 Recieved message: Welcome!
+2023-11-24 03:20:22 Recieved message: Welcome
+2023-11-24 03:22:22 Recieved message: How do you indicate that a currency is not good to trade at forex factory
+2023-11-24 03:23:22 Recieved message: When the folder near it is red, from what I’ve learned but could be more to it.
+2023-11-24 03:25:22 Recieved message: Red folders are a no
+2023-11-24 03:25:22 Recieved message: Ook!!
+So when the folder is red it should not be traded with or against any other currency
+2023-11-24 03:26:22 Recieved message: Correct!
+2023-11-24 03:26:22 Recieved message: Anyone know how to add Bitcoin from cash app to my HankoTrade balance?
+2023-11-24 03:27:22 Recieved message: what if manara gives a signal for a currency, but it has a red folder, is it best to not take the trade?
+2023-11-24 03:33:22 Recieved message: Yes and it’s not that you can’t take the trade, it’s solely up to you but it’s advised not to cause it’s very risky.
+2023-11-24 03:38:22 Recieved message: Große Mietwohnung in zentraler Innenstadtlage, zur Miete! | Wohnung Nordhorn (2BPS55Y) | immowelt
+https://www.immowelt.de/expose/2bps55y
+2023-11-24 03:38:22 Recieved message: oh okay
+2023-11-24 03:53:23 Recieved message: As a beginner how many trades should I be taking per day and what lot size should i start with??
+2023-11-24 03:59:22 Recieved message: 0.01 lot size, 0.01 per $100 dollars…start with a demo account if you haven’t until you feel comfortable going with a live account.
+2023-11-24 04:00:22 Recieved message: Anyone having issues with the course videos  they are not playing for me
+2023-11-24 04:02:22 Recieved message: Ook cool👍🏾
+I’ve been practicing on my demo account about to go live 🙌🏾
+2023-11-24 04:16:22 Recieved message: Me too but i don’t know how to go live
+2023-11-24 04:29:22 Recieved message: you would have to deposit money to your broker
+2023-11-24 04:29:22 Recieved message: they would open it for you
+2023-11-24 04:35:22 Recieved message: Broker?
+2023-11-24 06:14:24 Recieved message: Welcome Ashlee to the team 🇦🇺 She’s excited to be here!!
+2023-11-24 06:27:06 Recieved message: Yes.  You need a broker to deposit money to in order to start trading either live or demo
+
+You send them money and once cleared start trading
+2023-11-24 06:31:24 Recieved message: What broker do you recommend for a beginner?
+2023-11-24 06:31:24 Recieved message: And what is the minimum amount to dept?
+2023-11-24 06:31:24 Recieved message: Deposit
+2023-11-24 06:32:24 Recieved message: Your broker depends on whatever country you’re in as well.
+2023-11-24 06:33:24 Recieved message: O need help with this
+2023-11-24 06:37:25 Recieved message: Broker is dependent on where you are and what you’re looking to trade.   Deposit amount is how much you can afford 
+
+You should talk to your mentor or who told you about this.  There is a whole start up process
+2023-11-24 06:37:25 Recieved message: Buy bitcoin on your cashapp, and to send bitcoin copy and paste the bitcoin wallet address from your hankotrade website into the cashapp. It should hit your account in less than 30 mins
+2023-11-24 06:53:25 Recieved message: What country are you in?
+2023-11-24 07:05:25 Recieved message: Hey guys please help me welcome Angie to the team, so excited to see her success story🤍
+2023-11-24 07:06:25 Recieved message: Welcome!
+2023-11-24 07:14:25 Recieved message: Welcome every new menbers🙂
+2023-11-24 07:19:25 Recieved message: 
+2023-11-24 07:20:25 Recieved message: Hey y’all welcome Hany!!!
+2023-11-24 07:20:25 Recieved message: welcome to the fam!! 🫶🏼
+2023-11-24 07:47:25 Recieved message: Welcome 😊
+2023-11-24 07:48:25 Recieved message: Ghana
+2023-11-24 07:51:25 Recieved message: Can you deposit/ withdraw on vantage while unverified
+2023-11-24 08:08:25 Recieved message: 
+2023-11-24 08:09:25 Recieved message: Hey y’all welcome my girl Sabrina 💕💕
+2023-11-24 08:09:25 Recieved message: welcome to the fammmm
+2023-11-24 08:09:25 Recieved message: 💓💓💓
+2023-11-24 08:28:10 Recieved message: No clue I don’t use them
+2023-11-24 08:39:26 Recieved message: no
+2023-11-24 08:49:26 Recieved message: EURNZD—small lot
+Buy Now @ 1.80112
+SL @ 1.79205 (-90pips)
+TP 1@ 1.81312 (+120pips)
+TP 2 @ Later
+2023-11-24 08:58:39 Recieved message: make sure to close some profits and move SL to BE after 30-40pips
+2023-11-24 09:06:14 Recieved message: Hello! 
+
+🇬🇧Thank you to all who took the time to answer the survey both here and privately! 
+
+So there is a clear majority for webinars once a month and written updates, so that is what we will do until Vortic starts up again properly. Webinars will be the first Tuesday of every month, in English at 10 AM UK / 11 AM CET and in Norwegian at 8 PM UK / 9 PM CET. 
+
+🇸🇪🇳🇴 Tusen tack till alla som tog er tid att svara på undersökningen, båda här och privat!
+
+Det är en klar majoritet för webinar en gång i månaden och skriftliga uppdateringer, så det är det vi gör fram til Vortic drar i gång igen på rkitig. Webinarer kommer att vara första tisdag i månaden klockan 10:00 UK / 11:00 Skandinavien på engelska, och klockan 20:00 UK / 21:00 skandinavisk tid på norska.
+2023-11-24 09:08:26 Recieved message: does 1.0 = $100 ?
+2023-11-24 09:08:26 Recieved message: USD
+2023-11-24 09:09:26 Recieved message: Probably deposit yes but no withdraw
+2023-11-24 09:10:26 Recieved message: Gold analysis .  wait 1H candle to close above 1997 to target 2016
+2023-11-24 09:19:26 Recieved message: Hey y’all welcome my girl nevaeh !
+2023-11-24 09:21:14 Recieved message: welcomeeee to the fam 💓💓
+2023-11-24 09:23:26 Recieved message: Hey y’all welcome girl Annalyse !!
+2023-11-24 09:25:26 Recieved message: welcomeeee
+2023-11-24 09:27:26 Recieved message: Does anyone know why my Manara is not showing anything on Monitor and Notification.
+2023-11-24 09:27:26 Recieved message: Manara also stopped sending me notifications.
+2023-11-24 09:28:10 Recieved message: It’s working for me
+2023-11-24 09:28:10 Recieved message: Sorry to hear that tho try refreshing yeah
+2023-11-24 09:29:26 Recieved message: refreshing the page unfortunately didn’t change it either.
+2023-11-24 09:30:26 Recieved message: Give it some time then alright
+2023-11-24 09:59:27 Recieved message: Welcome everyone
+2023-11-24 09:59:27 Recieved message: 1.0 = $10 per pip
+2023-11-24 09:59:27 Recieved message: USD?
+2023-11-24 10:00:27 Recieved message: If that’s what you selected for your broker then yes
+2023-11-24 10:00:27 Recieved message: ohh
+2023-11-24 10:44:33 Recieved message: Velkommen❤️❤️
+2023-11-24 10:51:24 Recieved message: Velkommen
+2023-11-24 10:51:57 Recieved message: Velkomen ❤️🙌🏼
+2023-11-24 11:04:31 Recieved message: Hello everyone. As you have all noticed: this week there is no liquidity and the market is very slow + today is Thanksgiving in the United States (holiday). We placed very few signals this week because no clear directions and also no strong opportunities! We have to trade with the market accordingly, hence we should not risk it whenever the situation is uncertain. We follow up our open trades in order to update them but we are not to place any new signal.
+2023-11-24 11:37:28 Recieved message: Welcome all newcomers to the team. 🤗
+2023-11-24 12:03:23 Recieved message: PLOUTOS WEEKLY RESULTS (November 20th - 24th 2023):
+
+🔸GOLD SELL +140 ✅
+🔸USOIL BUY +200 ✅
+🔸JPN225 SELL -200 🚫 
+🔸GOLD SELL +70 ✅
+🔸US30 SELL +70 ✅
+ 
+TOTAL: +280 PIPS 
+
+CONGRATULATIONS 🔥
+2023-11-24 12:03:56 Recieved message: Running trades: NASDAQ (x2) - DAX40 - US30 - GOLD (TP1 +70)
+2023-11-24 12:29:29 Recieved message: Thought I was the only one with that issue. Also tried refreshing it
+2023-11-24 13:06:29 Recieved message: I have the same issue, manará it’s not sending me notifications
+2023-11-24 13:12:29 Recieved message: You  tried on computer?
+2023-11-24 13:12:29 Recieved message: Check your settings perhaps, I have mine set to complete and just a few patterns and I didn't get any notification yesterday but when I check the notification settings in manara, I saw that there were trades but all incomplete
+2023-11-24 13:12:29 Recieved message: Hence I didn't receive because none were complete
+2023-11-24 13:18:29 Recieved message: I had the same issue with Manara and contacted support and they fixed it for me.
+2023-11-24 13:26:30 Recieved message: My broker only uses meta-trader five and there’s issues with invalid accounts what I need is a new broker and a new platform to trade. Any suggestions I’m in the United States.
+2023-11-24 13:43:28 Recieved message: Trade closed @ TP1 👉 Price at entry again
+2023-11-24 14:17:30 Recieved message: No, only my phone
+2023-11-24 14:17:30 Recieved message: Will do that, thank you
+2023-11-24 14:45:31 Recieved message: Which broker
+2023-11-24 17:43:12 Recieved message: Does anyone know if I can withdraw money from my live account?
+2023-11-24 17:43:33 Recieved message: Or does it depend on the broker
+2023-11-24 17:46:33 Recieved message: If YOU Are verified YOU can yeah
+2023-11-24 17:50:33 Recieved message: Sway markets
+2023-11-24 17:51:16 Recieved message: Yes
+2023-11-24 18:51:16 Recieved message: Isn’t that the point ?
+2023-11-24 18:51:34 Recieved message: A lot of folks use Marsari however only the desktop supports MT4
+2023-11-24 18:52:34 Recieved message: Never heard of them
+2023-11-24 18:53:34 Recieved message: I only know of Marsari and HugosWay.   KOT4X is another but not on the MT platform I guess anymore

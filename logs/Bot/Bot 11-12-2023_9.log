@@ -1,0 +1,233 @@
+2023-12-11 09:19:03 LogWapper init() ./logs/Bot/Bot 11-12-2023_9.log
+2023-12-11 09:19:03 Starting Tests...
+2023-12-11 09:19:03 parsing msg s = '🆕 BUY JP225 @ 31500 / TPs: 31700 - 31900 - 32100 / SL: 31300'
+2023-12-11 09:19:03 Message parsing successful.
+trade = {'units': 1, 'pair': 'JP225_USD', 'TP': 31700.0, 'SL': 31300.0}
+2023-12-11 09:19:03 parsing msg s = '🆕 SELL USOIL @ 81.50 / TPs: 80.00 - 79.00 - 77.50 / SL: 83.00'
+2023-12-11 09:19:03 Message parsing successful.
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 80.0, 'SL': 83.0}
+2023-12-11 09:19:03 All tests passed!
+
+2023-12-11 09:34:57 Recieved message: Kommer snart❤️ Vi skal få no oppdateringer som gjelder Norge snart❤️
+2023-12-11 09:35:03 Recieved message: Hello everyone, can someone tell me what aithena and xenai trades : forex, commodities, indices or crypto ?
+2023-12-11 10:54:04 Recieved message: Hey guys dose manara works good ? I haven't tried before
+2023-12-11 10:55:04 Recieved message: Hey has Hankotrade stopped supporting mt5
+2023-12-11 10:56:04 Recieved message: Yes
+2023-12-11 10:57:04 Recieved message: What is the name of broker app you have?
+2023-12-11 10:57:04 Recieved message: Okay does anyone have a new broker I can use im located in the us
+2023-12-11 10:57:04 Recieved message: Finesse
+2023-12-11 10:58:04 Recieved message: What is the best broker for uk?
+2023-12-11 10:58:04 Recieved message: The broker is called finesse ?
+2023-12-11 10:59:04 Recieved message: https://finessefx.io/
+2023-12-11 11:52:05 Recieved message: hi
+2023-12-11 11:52:05 Recieved message: 🆕 SELL GOLD @ 1992 / TPs: 1982 - 1972 / SL: 2000
+2023-12-11 11:52:05 Creating trade...
+2023-12-11 11:52:05 parsing msg s = '🆕 SELL GOLD @ 1992 / TPs: 1982 - 1972 / SL: 2000'
+2023-12-11 11:52:05 Message parsing successful.
+trade = {'units': -1, 'pair': 'XAU_USD', 'TP': 1982.0, 'SL': 2000.0}
+2023-12-11 11:52:05 Placing trade: {'units': -1, 'pair': 'XAU_USD', 'TP': 1982.0, 'SL': 2000.0}
+2023-12-11 11:52:05 create_trade(): Starting with t = {'units': -1, 'pair': 'XAU_USD', 'TP': 1982.0, 'SL': 2000.0}
+2023-12-11 11:52:06 Opened trade 13176 : {'units': -1, 'pair': 'XAU_USD', 'TP': 1982.0, 'SL': 2000.0}
+2023-12-11 11:52:06 Successfully placed trade
+trade = {'units': -1, 'pair': 'XAU_USD', 'TP': 1982.0, 'SL': 2000.0}
+2023-12-11 11:52:06 Recieved message: why I cant set a sell limit
+2023-12-11 11:52:06 Recieved message: it shows blank and I cant push it?
+2023-12-11 11:54:04 Recieved message: help please
+2023-12-11 12:03:05 Recieved message: bc a sell limit needs to be over current price and 1995 is higher than 1992
+2023-12-11 12:03:05 Recieved message: thank you
+2023-12-11 12:05:05 Recieved message: here’s a wee chart, if it helps
+2023-12-11 12:28:05 Recieved message: I just saw the alert from ploutos it came in at 438 this morning. Would it be smart to get in now @1996/1995 for sell price? Or wait for another alert? I trade NY time.
+2023-12-11 12:55:06 Recieved message: The trade is still valid 🙂 and actually a better entry
+2023-12-11 13:01:06 Recieved message: This community is so great! Thank you!
+2023-12-11 14:34:04 Recieved message: How do u get alerts from Ploutos?
+2023-12-11 14:39:07 Recieved message: you have to purchase ploutos as an add on
+2023-12-11 15:01:08 Recieved message: Friend of mine wants to join your community. Polish speaking would be the best.
+2023-12-11 15:06:08 Recieved message: Thank u
+2023-12-11 15:07:08 Recieved message: DMed 🙏🏽
+2023-12-11 15:24:08 Recieved message: Yeah I just got in at 1987 and made bank! I could see that the trade was still tanking towards take profit, so I made my money even though I didn’t get to start at the top!
+2023-12-11 15:25:08 Recieved message: I got in at 1996/1995 and also making bank. Gold is good!
+2023-12-11 15:27:08 Recieved message: Yesss we love gold!! 😍🙈
+2023-12-11 15:28:08 Recieved message: I want to keep going with gold but can't get greedy
+2023-12-11 15:28:08 Recieved message: I know, same ahaha! 🙈👀
+2023-12-11 15:28:08 Recieved message: Same 😅
+2023-12-11 15:28:08 Recieved message: How much do you have to have in your balance in order to buy or sell gold?
+2023-12-11 15:29:08 Recieved message: It's sooooo tempting but I have you resist 🤣
+2023-12-11 15:30:08 Recieved message: Shoutout my newest member Jason Ward who is already placing practice trades on his demo and completely crushing it. the expert channels are really awesome for beginners!  He’s such a faster learner and applier. I can’t wait to see him go live 😍
+2023-12-11 15:31:08 Recieved message: 👏🏼
+2023-12-11 15:32:08 Recieved message: 500-1000 @ least. From what they recommend
+2023-12-11 15:33:09 Recieved message: Closed my last 2 trades out just because I'm learning control and not get greedy. Done for the day!
+2023-12-11 15:34:04 Recieved message: Yeah Nic! 🤑
+2023-12-11 15:35:08 Recieved message: Thank you my guy!
+2023-12-11 15:35:57 Recieved message: Hello , How are you?
+2023-12-11 15:40:08 Recieved message: Gold is dropping and dropping and dropping! Wow!
+2023-12-11 15:40:08 Recieved message: Of course bro 💪🏾
+2023-12-11 15:40:08 Recieved message: Love thiss😍😍
+2023-12-11 15:40:08 Recieved message: When it goes up we better be prepared. 😲 💰 🤑 💸 💲
+2023-12-11 15:41:08 Recieved message: I know that’s what I’m thinking! 👀
+2023-12-11 15:41:08 Recieved message: Thank you. Learning self control
+2023-12-11 15:41:08 Recieved message: Going to be crazy!
+2023-12-11 15:41:08 Recieved message: But it’s probably going to keep dropping for a while… that’s what people are saying at least
+2023-12-11 15:41:08 Recieved message: Yup cause it’s gonna go up eventually 🤑🤑
+2023-12-11 15:42:08 Recieved message: I caught the sells today and I’m preparing to catch the buys
+2023-12-11 15:42:08 Recieved message: Until the us dollar goes to crap. Which I'm surprised it's strong from all the news I hear
+2023-12-11 15:42:08 Recieved message: Same here
+2023-12-11 15:43:08 Recieved message: Love seeing the whole fam win! 🤑💯
+2023-12-11 15:43:08 Recieved message: I’m ready for the buy like an animal! 🙉🐯
+2023-12-11 15:44:08 Recieved message: 
+2023-12-11 15:44:08 Recieved message: Love it. I have to go meditate, gold is tempting my soul 🤣 it wants me to go back in. Nope. Another day! 😅
+2023-12-11 15:45:08 Recieved message: 
+2023-12-11 15:45:08 Recieved message: HAHAHA 🤣🤣
+2023-12-11 15:46:09 Recieved message: 
+2023-12-11 15:46:09 Recieved message: Ahaha same. My heart is racing from the charts and I’m already closed out with major profits for the day 🤣🧘🏼‍♀️
+2023-12-11 15:46:23 Recieved message: 
+2023-12-11 15:46:35 Recieved message: We should just not look at the charts no more for today unless it's for training. 😅
+2023-12-11 15:47:08 Recieved message: 🤣🤣🤣
+2023-12-11 15:47:08 Recieved message: 
+2023-12-11 15:48:08 Recieved message: Oh yes… all of my observations are for training purposes only 👀…
+2023-12-11 15:48:08 Recieved message: 🤣🙈
+2023-12-11 15:48:08 Recieved message: Don’t even look for training you hands will go back to gold😂
+2023-12-11 15:48:08 Recieved message: That’s what I’m learning! 🫠
+2023-12-11 15:48:08 Recieved message: Nope I refrain. I sooooo want to though.
+2023-12-11 15:49:04 Recieved message: Imagine you sold with a big lot size right now 🤣
+2023-12-11 15:49:04 Recieved message: Take a break guys 😂
+2023-12-11 15:49:04 Recieved message: Just to keep our minds off of gold for now 😆
+2023-12-11 15:50:08 Recieved message: I don’t even wanna hear or see that word anymore today, imma head out 😂
+2023-12-11 15:50:08 Recieved message: Oh I'm breaking alright. Breaking my mind 😆
+2023-12-11 15:50:08 Recieved message: 🤣🤣🤣
+2023-12-11 15:50:08 Recieved message: Gold! 🤣
+2023-12-11 15:50:08 Recieved message: Imma take my gold necklace off too 😭
+2023-12-11 15:51:08 Recieved message: 
+2023-12-11 15:51:08 Recieved message: I got 2 bracelets and 3 necklaces on right now 😂😂😂
+2023-12-11 15:51:08 Recieved message: I love it here 😂
+2023-12-11 15:51:08 Recieved message: 
+2023-12-11 15:51:08 Recieved message: Damn! You get it and flaunt it!
+2023-12-11 15:52:08 Recieved message: ^^^^
+2023-12-11 15:52:08 Recieved message: #arabstyle 🤣🤣
+2023-12-11 15:52:08 Recieved message: Can I borrow $2 from you? Sheesh 😂
+2023-12-11 15:52:09 Recieved message: Me too. Oh wait I'll just take what I got today 🤣
+2023-12-11 15:53:50 Recieved message: For the new broker…. Funded live? ECN live?
+2023-12-11 15:54:09 Recieved message: Looks like gold is going up.  Just kidding 😆
+2023-12-11 15:56:09 Recieved message: Nic just hand me your phone bro. I’ll hold onto it for today 😂
+2023-12-11 15:57:09 Recieved message: Delete 😂😂😂
+2023-12-11 15:57:09 Recieved message: 🤣 on the way!!!
+2023-12-11 15:57:09 Recieved message: Just for today! 🤣
+2023-12-11 15:58:09 Recieved message: I wait TP3 1978.04 😉
+2023-12-11 15:58:09 Recieved message: I was literally about to do this 🤣
+2023-12-11 15:58:09 Recieved message: It'll hit
+2023-12-11 15:58:09 Recieved message: A very strong soldier still holding
+2023-12-11 15:58:09 Recieved message: Couple gold trades in demo with a new strategy I’m testing.   This was day 1
+2023-12-11 15:58:39 Recieved message: Nice work brother
+2023-12-11 15:59:09 Recieved message: It'll hit eventually.
+2023-12-11 16:00:09 Recieved message: test it tomorrow too for a better confirmation because gold has been dropping the entire day
+2023-12-11 16:00:09 Recieved message: AMAZING!
+2023-12-11 16:00:09 Recieved message: LETS GOO
+2023-12-11 16:00:09 Recieved message: It's close tp2 and then i reopen on 1983.34 to get tp3. 🤗
+2023-12-11 16:01:09 Recieved message: Perfecttt!
+2023-12-11 16:01:09 Recieved message: I know.  This was from last night.  It’s intentioned to be for scalping
+2023-12-11 16:01:09 Recieved message: Wow that’s nice!
+2023-12-11 16:01:09 Recieved message: I love scalping with gold
+2023-12-11 16:02:09 Recieved message: We will see what tonight brings.   Staying with demo for a bit
+2023-12-11 16:04:05 Recieved message: I'm not at that point yet but I'll learn soon enough
+2023-12-11 16:05:09 Recieved message: Can someone recommend me a broker to trade gold, s&p and forex?
+In the us
+2023-12-11 16:06:09 Recieved message: Finesse fx
+2023-12-11 16:07:09 Recieved message: 🚨NEW GLOBAL BROKER🚨:
+
+https://my.finessefx.io/auth/register?partner_code=1939199
+2023-12-11 16:07:09 Recieved message: use this link^
+2023-12-11 16:15:07 Recieved message: Ecn live is what I chose
+2023-12-11 16:30:59 Recieved message: Hey Reggie thanks!  Love your name 😂
+2023-12-11 16:31:09 Recieved message: Is anyone having problems with auto renew for EACONOMY it keeps declining
+2023-12-11 16:50:20 Recieved message: HAPPY MONDAY GUYS! Here’s a daily reminder on why I love Mondays! This has been in the books for so long because I used to hate Mondays I used to hate waking up on Mondays but when me telling myself this (in the video) over and over again I’ve changed my hate for Mondays into a love for Mondays!!🙌💕 
+
+It’s all about MINDSET 
+LETS KEEP ON PUSHING 💪🏾
+2023-12-11 16:51:34 Recieved message: Is anyone receiving trade signals in the chats?
+2023-12-11 16:52:09 Recieved message: Anyone in the US, what broker are you using to connect with mt4?
+2023-12-11 16:52:09 Recieved message: Use chat support. It happens at times. I personally think the system might just be busy. But it might end up going through later. So please contact support.
+2023-12-11 16:53:09 Recieved message: Not much. Don't expect much today. Or too early cause the markets just getting back in the flex.
+2023-12-11 16:54:09 Recieved message: YES! Totally love this - Fresh start - New opportunities - New possibilities.
+2023-12-11 16:54:54 Recieved message: So true lol I just got excited to practice on my demo account 😂😂
+2023-12-11 16:55:31 Recieved message: The limit does not exist here 😁
+2023-12-11 16:56:43 Recieved message: Ok thanks, I wasn’t getting trades last week too and I had already reset it and still nothing.
+2023-12-11 16:58:10 Recieved message: Is this a constant issue with the chat? Bc it seems that way for me at least. 2-3 days each week I’m not getting anything and have to reset for it to work one day and then I have to do it all over again the next.
+2023-12-11 17:27:10 Recieved message: Does anyone know what broker Abdullah is using on the eminus arabic sessions
+2023-12-11 17:29:10 Recieved message: The best is to contact Abdullah on IG with blue tick only and the team will link you to broker. But one brokers is Tickmill
+2023-12-11 17:38:50 Recieved message: THE WINTER GALA VIDEO IS OFFICIALLY OUT SHOW SOME LOVE TEAM ❤️ LETS MAKE SOME NOISE IN THE COMMENTS 
+
+https://www.instagram.com/reel/C0uDgBfNFDv/?igshid=MzRlODBiNWFlZA==
+2023-12-11 18:00:10 Recieved message: ActDroid is now saying I have too many idle sessions has anyone else seen this I cant get into my trading platform now
+2023-12-11 18:01:10 Recieved message: IT will need to reset you
+2023-12-11 18:02:11 Recieved message: Do you know what I did wrong?
+2023-12-11 18:07:11 Recieved message: Is it compatible with mt4?
+2023-12-11 18:14:11 Recieved message: I use it on MT5
+2023-12-11 18:20:11 Recieved message: Thanks!!
+2023-12-11 18:31:11 Recieved message: Ther is US30 on MT5
+Any idea ? I can’t find it different nam🤷‍♂️
+2023-12-11 18:31:11 Recieved message: Am on demo
+2023-12-11 18:33:11 Recieved message: Try DJ30.
+2023-12-11 18:34:05 Recieved message: I don’t think it’s the MT as much as it’s the broker.  
+
+I have Finesse on MT5 and have this…
+2023-12-11 18:34:05 Recieved message: 
+2023-12-11 18:35:11 Recieved message: 
+2023-12-11 18:35:11 Recieved message: 
+2023-12-11 18:36:11 Recieved message: What broker ?
+2023-12-11 18:36:11 Recieved message: Not on the list not working for me maby when I start live with the broker
+2023-12-11 18:37:11 Recieved message: Demo
+2023-12-11 18:37:11 Recieved message: Thank 4 help
+2023-12-11 18:37:11 Recieved message: Welp there ya go.  That’s the problem.
+2023-12-11 18:37:11 Recieved message: Yeah
+2023-12-11 18:38:11 Recieved message: I would get signed up with a broker and use their demo.   Will solve alot of your problems
+
+Here is the link for Finesse
+
+https://my.finessefx.io/auth/register?partner_code=6515755
+2023-12-11 18:38:11 Recieved message: I haven't been able to trade all day because of this stupid broker MASARI CAPITAL...KMT...I'M SOOOO MAD. 😡😡
+2023-12-11 18:38:50 Recieved message: How long have you been using this broker for?
+2023-12-11 18:41:11 Recieved message: Me ?   About a week and a half maybe 2 weeks.   I used HugosWay and Masari and like it better
+2023-12-11 18:58:02 Recieved message: I hope everyone is having a great monday. I am brand new to trading and I'm not sure is it OK to fund my live account? I am still practicing with the demo so I'm not sure what's okay and what isn't okay. Any feedback would be greatly appreciated!
+2023-12-11 19:06:11 Recieved message: Started the demo account today!!
+2023-12-11 19:11:11 Recieved message: Important Update: Transition to New MT5 Account with FinesseFx
+Dear Masari Clients,
+We are in the final stages of our transition process and anticipate the seamless migration of everyone to a new MT5 Account with our esteemed broker partner, FinesseFx.
+Our excitement in partnering with FinesseFx stems from their alignment with our vision of becoming a leading name in this industry, emphasizing long-term sustainability.
+Of paramount importance, FinesseFx holds regulation—a crucial factor ensuring the safety of your funds, a priority we deeply value.
+While accounts remain paused with Masari, please anticipate forthcoming emails containing comprehensive details on accessing your new accounts via the CRM and MT5 platforms.
+Trading will resume shortly. Should any losses have been incurred during this migration period, please contact support@masaricapital.com for our team to assess and reimburse any damages incurred due to the trading pause.
+We genuinely appreciate your trust and patience throughout this transition.
+Sincerely,
+Masari Team
+
+If you need assistance, don’t hesitate to reach out to our Support Team anytime! 
+2023-12-11 19:13:55 Recieved message: GoodAfternoon. I recommend getting a couple of practice rounds on the demo account before you actually start trading. I’ve learned that initially it’s the challenge isn’t in losing money. It’s in over leveraging yourself.
+2023-12-11 19:21:01 Recieved message: 
+2023-12-11 19:23:06 Recieved message: I get this notification and I don't know what to do. Anyone know how to fixed? I have Elite pack.
+2023-12-11 19:23:06 Recieved message: Just exit & log back in
+2023-12-11 19:23:18 Recieved message: Okay I try that. I do it again.
+2023-12-11 19:24:56 Recieved message: 2nd time work it. Thank you Aundrea. 😊
+2023-12-11 19:24:56 Recieved message: You’re welcome !
+2023-12-11 19:34:05 Recieved message: Looks like I am not going to be able to trade today I cant get into ActDroid tried to contact customer support only to see they are reading my messages but I am getting no reponse then they clase the chat so now have to wait again to get a different agent.
+2023-12-11 19:56:12 Recieved message: Me too, 1993 🎉
+2023-12-11 20:02:32 Recieved message: I notice that gold lots are different to JPY and the other major pairs…I was nervous what to put as I could only enter the minimum 0.1…worked out ok I got $20AUD! Small win but a win nonetheless 😍
+2023-12-11 20:09:46 Recieved message: Today’s trades and it’s only Monday!!
+2023-12-11 20:22:13 Recieved message: Damn gold.  I got in at 2007 last night.   Still profitable but…
+2023-12-11 20:23:13 Recieved message: Nice but unless you are finding your account with 100k I would get that bank roll down.   
+
+Also keep your lot sizes the same
+2023-12-11 20:40:13 Recieved message: Do we know an estimate of when we can connect Eacho with mt5?
+2023-12-11 22:08:19 Recieved message: 
+2023-12-11 22:08:19 Recieved message: On top of that lot size is different to every broker
+2023-12-11 22:08:19 Recieved message: 🫣🤪 it’s like running the gauntlet sometimes 😆
+2023-12-11 22:08:19 Recieved message: What I do trying them on demo then count roughly 1% stop loss
+2023-12-11 22:08:19 Recieved message: Is like US30 scalping live session Abdullah doing with 4.00 lot if I want same results I have to do with 40.00 lot
+2023-12-11 22:08:19 Recieved message: Hey for anyone thats switched to FinesseFx as their broker, how have your spreads been?
+2023-12-11 22:08:19 Recieved message: How have they compared to your previous broker?
+2023-12-11 22:08:19 Recieved message: awesome small on the demo account so far, pretty much where you want to enter is where you enter...in the process of organising a live account . previous broker has a spread of 1.5 to 2 pips so way better than my previous broker (city index Australia)
+2023-12-11 22:08:19 Recieved message: That’s awesome. thanks for your feedback!
+2023-12-11 22:08:19 Recieved message: In Australia you have brilliant broker IC markets 0.0 pips
+2023-12-11 22:08:19 Recieved message: i'll check it out thank you, is it regulated?  🙏🏻
+2023-12-11 22:08:19 Recieved message: Mine are smaller also
+2023-12-11 22:08:19 Recieved message: Yes
+2023-12-11 22:08:19 Recieved message: https://www.icmarkets.com.au/en/company/regulation
+2023-12-11 22:08:19 Recieved message: What are people’s thoughts on a commission account vs zero commission account with bigger spread on entry?

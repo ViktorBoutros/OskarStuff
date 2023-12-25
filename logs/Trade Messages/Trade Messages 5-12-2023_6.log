@@ -1,0 +1,13 @@
+2023-12-05 06:13:07 LogWapper init() ./logs/Trade Messages/Trade Messages 5-12-2023_6.log
+2023-12-05 11:45:45 SUCCESS: 🆕 SELL US30 @ 36100 / TPs: 35950 - 35800 - 35700 / SL: 36250
+{'units': -1, 'pair': 'US30_USD', 'TP': 35950.0, 'SL': 36250.0}
+2023-12-05 12:02:41 SUCCESS: 🆕 SELL GOLD @ 2025 / TPs: 2010 - 2000 - 1992 / SL: 2040
+{'units': -1, 'pair': 'XAU_USD', 'TP': 2010.0, 'SL': 2040.0}
+2023-12-05 14:20:17 SUCCESS: 🆕 BUY NATGAS @ 2750 / TPs: 2900 - 3000 - 3150 / SL: 2650
+{'units': 1, 'pair': 'NATGAS_USD', 'TP': 2900.0, 'SL': 2650.0}
+2023-12-05 15:14:11 SUCCESS: 🆕 SELL GOLD @ 2020 / TPs: 2005 - 1995 - 1985 / SL: 2030
+{'units': -1, 'pair': 'XAU_USD', 'TP': 2005.0, 'SL': 2030.0}
+2023-12-05 18:30:38 SUCCESS: 🆕 SELL USOIL @ 72.80 / TPs: 70.00 - 68.00 - 66.00 / SL: 75.00
+{'units': -1, 'pair': 'BCO_USD', 'TP': 70.0, 'SL': 75.0}
+2023-12-06 13:21:02 SUCCESS: 🆕 SELL GOLD @ 2030 / TPs: 2015 - 2005 - 1992 / SL: 2050
+{'units': -1, 'pair': 'XAU_USD', 'TP': 2015.0, 'SL': 2050.0}

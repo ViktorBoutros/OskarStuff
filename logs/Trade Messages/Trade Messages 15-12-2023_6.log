@@ -1,0 +1,3 @@
+2023-12-15 06:17:05 LogWapper init() ./logs/Trade Messages/Trade Messages 15-12-2023_6.log
+2023-12-19 03:44:54 SUCCESS: 🆕 BUY USOIL @ 74.00 / TPs: 75.00 - 76.00 - 77.50 / SL: 72.50
+{'units': 1, 'pair': 'BCO_USD', 'TP': 75.0, 'SL': 72.5}

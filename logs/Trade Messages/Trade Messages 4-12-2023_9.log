@@ -1,0 +1,11 @@
+2023-12-04 09:40:58 LogWapper init() ./logs/Trade Messages/Trade Messages 4-12-2023_9.log
+2023-12-04 11:01:14 SUCCESS: 🆕 SELL USOIL @ 73.50 / TPs: 71.00 - 68.00 - 66.00 (swing) / SL: 76.00
+{'units': -1, 'pair': 'BCO_USD', 'TP': 71.0, 'SL': 76.0}
+2023-12-04 13:35:45 SUCCESS: 🆕 SELL GOLD @ 2063 / TPs: 2052 - 2046 / SL: 2070
+{'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 14:04:05 SUCCESS: 🆕 SELL GOLD @ 2063 / TPs: 2052 - 2046 / SL: 2070
+{'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 14:34:42 SUCCESS: 🆕 SELL US30 @ 36150 / TPs: 36050 - 35900 - 35800 / SL: 36300
+{'units': -1, 'pair': 'US30_USD', 'TP': 36050.0, 'SL': 36300.0}
+2023-12-04 15:24:42 SUCCESS: 🆕 SELL NASDAQ @ 15750 / TPs: 15600 - 15450 - 15300 / SL: 16000
+{'units': -1, 'pair': 'NAS100_USD', 'TP': 15600.0, 'SL': 16000.0}

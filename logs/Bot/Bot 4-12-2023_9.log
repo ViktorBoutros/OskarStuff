@@ -1,0 +1,240 @@
+2023-12-04 09:40:58 LogWapper init() ./logs/Bot/Bot 4-12-2023_9.log
+2023-12-04 09:40:58 Starting Tests...
+2023-12-04 09:40:58 parsing msg s = '🆕 BUY JP225 @ 31500 / TPs: 31700 - 31900 - 32100 / SL: 31300'
+2023-12-04 09:40:58 Message parsing successful.
+trade = {'units': 1, 'pair': 'JP225_USD', 'TP': 31700.0, 'SL': 31300.0}
+2023-12-04 09:40:58 parsing msg s = '🆕 SELL USOIL @ 81.50 / TPs: 80.00 - 79.00 - 77.50 / SL: 83.00'
+2023-12-04 09:40:58 Message parsing successful.
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 80.0, 'SL': 83.0}
+2023-12-04 09:40:58 All tests passed!
+
+2023-12-04 09:54:00 Recieved message: Just to clarify we transitioned from Masari to Hankotrade?
+2023-12-04 09:56:50 Recieved message: Trade closed +70 👉 Price at entry again
+2023-12-04 10:38:32 Recieved message: https://www.tradingview.com/x/OuRmKLQ6/
+2023-12-04 10:41:36 Recieved message: Dow Jones map in my eyes 🔥 Retracement then a big new bounce up. Stay tuned 💪
+2023-12-04 11:01:13 Recieved message: 🆕 SELL USOIL @ 73.50 / TPs: 71.00 - 68.00 - 66.00 (swing) / SL: 76.00
+2023-12-04 11:01:13 Creating trade...
+2023-12-04 11:01:13 parsing msg s = '🆕 SELL USOIL @ 73.50 / TPs: 71.00 - 68.00 - 66.00 (swing) / SL: 76.00'
+2023-12-04 11:01:13 Message parsing successful.
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 71.0, 'SL': 76.0}
+2023-12-04 11:01:13 Placing trade: {'units': -1, 'pair': 'BCO_USD', 'TP': 71.0, 'SL': 76.0}
+2023-12-04 11:01:13 create_trade(): Starting with t = {'units': -1, 'pair': 'BCO_USD', 'TP': 71.0, 'SL': 76.0}
+2023-12-04 11:01:14 Opened trade 13102 : {'units': -1, 'pair': 'BCO_USD', 'TP': 71.0, 'SL': 76.0}
+2023-12-04 11:01:14 Error placing TP or SL
+ok = False
+2023-12-04 11:01:14 Successfully placed trade
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 71.0, 'SL': 76.0}
+2023-12-04 12:04:02 Recieved message: Did you notice that just DXY market is open and all other indeces are closed market in Trading View?
+2023-12-04 12:06:02 Recieved message: AXY, BXY, CXY, EXY, JXY, SXY and ZXY are closed.
+2023-12-04 12:18:03 Recieved message: Weird that's why probably gold went crazy today whole market is weird
+2023-12-04 12:18:27 Recieved message: +80 ✅ Book
+2023-12-04 12:33:14 Recieved message: +600 pips since opening now 👍 Amazing start of this week 🔥
+2023-12-04 12:43:03 Recieved message: When I want to transfer money back to my cashapp, since you have to do it on bitcoin, how do you get it from bitcoin to usd currency? And is there a fee?
+2023-12-04 13:35:44 Recieved message: 🆕 SELL GOLD @ 2063 / TPs: 2052 - 2046 / SL: 2070
+2023-12-04 13:35:44 Creating trade...
+2023-12-04 13:35:44 parsing msg s = '🆕 SELL GOLD @ 2063 / TPs: 2052 - 2046 / SL: 2070'
+2023-12-04 13:35:44 Message parsing successful.
+trade = {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 13:35:44 Placing trade: {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 13:35:44 create_trade(): Starting with t = {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 13:35:45 Opened trade 13107 : {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 13:35:45 Successfully placed trade
+trade = {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 13:35:45 Recieved message: All indices are open. Yeaaah. 😊
+2023-12-04 13:39:04 Recieved message: Are some of y’all trading NAS100 Cash?
+2023-12-04 13:40:04 Recieved message: When was last manara update in usa
+2023-12-04 13:51:16 Recieved message: +70 ✅
+2023-12-04 13:58:26 Recieved message: Is there a way to determine which trades to take from manara or do you just take each one…..? Confused!
+2023-12-04 13:59:05 Recieved message: Why does Pluto's trade for gold say they hit 70 pips when it hasn't even hit tp yet? Makes no sense
+2023-12-04 14:00:05 Recieved message: I’ve been wondering the same thing
+2023-12-04 14:00:05 Recieved message: I'm curious if they are cashing out n not saying anything
+2023-12-04 14:02:05 Recieved message: Gold is doing what they say it was going to do though
+2023-12-04 14:03:05 Recieved message: Mines hit SL 😅. Idk if it’s a broker issue or just an error on their end.
+2023-12-04 14:03:05 Recieved message: Yea this time
+2023-12-04 14:03:05 Recieved message: What did you put your sl at?
+2023-12-04 14:03:05 Recieved message: Different broker and probably they entered a bit earlier
+2023-12-04 14:04:05 Recieved message: I set it to exactly what theirs was
+2023-12-04 14:04:05 Recieved message: The one they just sent out?
+2023-12-04 14:04:05 Recieved message: 🆕 SELL GOLD @ 2063 / TPs: 2052 - 2046 / SL: 2070
+2023-12-04 14:04:05 Creating trade...
+2023-12-04 14:04:05 parsing msg s = '🆕 SELL GOLD @ 2063 / TPs: 2052 - 2046 / SL: 2070'
+2023-12-04 14:04:05 Message parsing successful.
+trade = {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 14:04:05 Placing trade: {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 14:04:05 create_trade(): Starting with t = {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 14:04:05 Opened trade 13111 : {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 14:04:05 Successfully placed trade
+trade = {'units': -1, 'pair': 'XAU_USD', 'TP': 2052.0, 'SL': 2070.0}
+2023-12-04 14:05:05 Recieved message: Yup, this happened to me before. I entered exactly when they did and they said TP but it hit SL for me. I’ve had more gains with them than losses though but still it’s strange.
+2023-12-04 14:05:05 Recieved message: That is so odd. Mine is going down like they said. Who's your broker?
+2023-12-04 14:06:05 Recieved message: Or sometimes they say TP and mines would still be running
+2023-12-04 14:06:05 Recieved message: I’m using Hankotrade
+2023-12-04 14:07:03 Recieved message: TP1 +110 ✅
+2023-12-04 14:08:05 Recieved message: Oh OK. I have finesse. Maybe that's the issue. I put in 2 trades from that and they both hit
+2023-12-04 14:09:05 Recieved message: Now they say tp1 just hit +110. Maybe they were saying +70 at that point of time
+2023-12-04 14:09:05 Recieved message: Yeah I also have finesse, but a demo account. I’m gonna switch over after I play around with it for awhile.
+2023-12-04 14:10:05 Recieved message: The spreads are pretty good for finesse.
+2023-12-04 14:10:05 Recieved message: And commissions aren't that bad either
+2023-12-04 14:10:05 Recieved message: I have never changed brokers so much in my life 😂. Ever since this Masari mess I feel like I had like 4 different brokers already lol.
+2023-12-04 14:12:05 Recieved message: I know right 🤣. I switched 3xs 😆 glad they found us one.  It's awesome to see the customers come first
+2023-12-04 14:13:05 Recieved message: Yeah it’s been so much going on. Even Hankotrade is having issues with MT4/MT5 mobile. I had to open my live account on the PC until they resolve whatever is going on.
+2023-12-04 14:14:05 Recieved message: When was last manara update
+2023-12-04 14:14:05 Recieved message: I'm sorry to hear that. People can't even find that broker on mt4/mt5
+2023-12-04 14:16:05 Recieved message: Yeah I talked with support and they told me their team is working on it to get it back on there, it’s a minor inconvenience but patience is key.
+2023-12-04 14:17:05 Recieved message: At this rate I’m just like “finesse, I’m coming home baby” 😂
+2023-12-04 14:18:35 Recieved message: TP2 +170 ✅ Trade fully closed
+2023-12-04 14:19:05 Recieved message: Lol. Yeah their support seems dookie. Come to the good side my guy 😆
+2023-12-04 14:20:05 Recieved message: Damn tp2 just hit. I knew I should've did that one also. All good made my quota for the day 😆
+2023-12-04 14:21:25 Recieved message: watch ralph‘s eca videos, he explains it
+2023-12-04 14:21:33 Recieved message: Ty!
+2023-12-04 14:22:05 Recieved message: Love to see it bro!
+2023-12-04 14:22:28 Recieved message: One of my GOLD trades 👍
+2023-12-04 14:23:25 Recieved message: Me also bc I did a stupid mistake by taking a gold trade last night, didn't trust my gut n got out at -160 but once I did it went straight to my tp, so I would've made profit lol
+I'm back at even now
+2023-12-04 14:24:20 Recieved message: Damn I know you was mad af but glad you got it back 🫡
+2023-12-04 14:25:05 Recieved message: I’m practicing for another week on demo then ima go live 🙌 but thanks for the recommendation definitely will get finesse
+2023-12-04 14:26:00 Recieved message: Omg was I. The entire time in my demo I let everything ride and was 75-80% successful. And the first trade I took I went opposite 😆 but I'm also glad I got it back. Thank God for Gold!
+2023-12-04 14:26:00 Recieved message: You're welcome.
+2023-12-04 14:28:05 Recieved message: Gold is so rewarding man. It’s my favorite thing. Can be very volatile but super rewarding.
+2023-12-04 14:29:05 Recieved message: Take your time but remember it's 90% mental, take the trade n let ride. You'll win n lose some. Always trust your gut
+2023-12-04 14:29:05 Recieved message: You seen that screenshot on Ploutos? Bro I can’t wait to start hitting trades like that. Our time coming 💯
+2023-12-04 14:30:05 Recieved message: Yes it is. I've learned that in the past 2 days. The hard way lol
+2023-12-04 14:30:05 Recieved message: Omg yes. His/her account must be 10,000 or more. We will get there
+2023-12-04 14:31:05 Recieved message: I was like damn.... can't want do reach that goal, I'll be set
+2023-12-04 14:31:05 Recieved message: Wait*
+2023-12-04 14:31:05 Recieved message: To*
+2023-12-04 14:32:05 Recieved message: I’m telling you man. One trade can set you up and you can just chill for a bit. It’s insane man
+2023-12-04 14:32:05 Recieved message: That was one of their own trades as well not an alert.
+2023-12-04 14:33:05 Recieved message: Yes it can just have to be a little cautious with gold
+2023-12-04 14:33:05 Recieved message: Oh I know, it’s so inspiring to see stuff like that.
+2023-12-04 14:33:05 Recieved message: Yes it is. Time to learn the gold charts. Nothing else 😆
+2023-12-04 14:34:05 Recieved message: Yup I was always told to stick to one good pair you like and just go with that, trading a million different pairs can be confusing imo.
+2023-12-04 14:34:41 Recieved message: 🆕 SELL US30 @ 36150 / TPs: 36050 - 35900 - 35800 / SL: 36300
+2023-12-04 14:34:41 Creating trade...
+2023-12-04 14:34:41 parsing msg s = '🆕 SELL US30 @ 36150 / TPs: 36050 - 35900 - 35800 / SL: 36300'
+2023-12-04 14:34:41 Message parsing successful.
+trade = {'units': -1, 'pair': 'US30_USD', 'TP': 36050.0, 'SL': 36300.0}
+2023-12-04 14:34:41 Placing trade: {'units': -1, 'pair': 'US30_USD', 'TP': 36050.0, 'SL': 36300.0}
+2023-12-04 14:34:41 create_trade(): Starting with t = {'units': -1, 'pair': 'US30_USD', 'TP': 36050.0, 'SL': 36300.0}
+2023-12-04 14:34:42 Opened trade 13119 : {'units': -1, 'pair': 'US30_USD', 'TP': 36050.0, 'SL': 36300.0}
+2023-12-04 14:34:42 Successfully placed trade
+trade = {'units': -1, 'pair': 'US30_USD', 'TP': 36050.0, 'SL': 36300.0}
+2023-12-04 14:34:43 Recieved message: Isn’t Ploutos only for indices?
+2023-12-04 14:35:05 Recieved message: Omg yes. Learned that in the demo. Gold will be our friend, possibly best friends. Only if gold keeps treating was well 😆
+2023-12-04 14:35:38 Recieved message: Yes I believe so
+2023-12-04 14:37:05 Recieved message: Not only but mostly
+2023-12-04 14:38:05 Recieved message: But Pluto is super active today 🥰
+2023-12-04 14:38:05 Recieved message: Ok thanks. It’s live trading, right?
+2023-12-04 14:38:05 Recieved message: Yes
+2023-12-04 14:38:05 Recieved message: Yea
+2023-12-04 14:39:05 Recieved message: But make sure to read the disclaimer pinned at top of page
+2023-12-04 14:59:26 Recieved message: So I'm a little confused how this happened: Eacho put in a trade at 5:20am while I was sleeping. I'm in the US so I thought I had to click "Accept" for trade ideas🤔 It closed the trade shortly after putting me at -$8.52
+2023-12-04 15:20:45 Recieved message: Nasdaq and our level 15300 will hit. Hence, hold on our past trades and we might sell again. Be ready!
+2023-12-04 15:24:42 Recieved message: 🆕 SELL NASDAQ @ 15750 / TPs: 15600 - 15450 - 15300 / SL: 16000
+2023-12-04 15:24:42 Creating trade...
+2023-12-04 15:24:42 parsing msg s = '🆕 SELL NASDAQ @ 15750 / TPs: 15600 - 15450 - 15300 / SL: 16000'
+2023-12-04 15:24:42 Message parsing successful.
+trade = {'units': -1, 'pair': 'NAS100_USD', 'TP': 15600.0, 'SL': 16000.0}
+2023-12-04 15:24:42 Placing trade: {'units': -1, 'pair': 'NAS100_USD', 'TP': 15600.0, 'SL': 16000.0}
+2023-12-04 15:24:42 create_trade(): Starting with t = {'units': -1, 'pair': 'NAS100_USD', 'TP': 15600.0, 'SL': 16000.0}
+2023-12-04 15:24:42 Opened trade 13123 : {'units': -1, 'pair': 'NAS100_USD', 'TP': 15600.0, 'SL': 16000.0}
+2023-12-04 15:24:42 Successfully placed trade
+trade = {'units': -1, 'pair': 'NAS100_USD', 'TP': 15600.0, 'SL': 16000.0}
+2023-12-04 15:30:06 Recieved message: Hey guys ! Started to practice the trading w a demo account and just seems to easy?😭  any pointers to how things should fall in order ? To make sure I’m doing this correctly
+2023-12-04 15:35:32 Recieved message: +70 ✅ Book
+2023-12-04 15:40:06 Recieved message: 225pips is very good. 😉
+2023-12-04 15:41:16 Recieved message: Could be the spread or time.  Gold can move VERY fast.  If the TP is 2040 and that’s what you set TP at, but the spread is 25…..the trade actually has to hit 2065 to close.
+2023-12-04 15:41:59 Recieved message: TP1 +200 ✅
+2023-12-04 15:42:33 Recieved message: Mine all hit this morning. My spreads seem ok. But makes sense
+2023-12-04 15:44:06 Recieved message: Can someone help me with colors pls i get the colors on the left side wgen looking on the screen but I cant get de numbers on the right in colors
+2023-12-04 15:44:06 Recieved message: Can someone help me with this
+2023-12-04 15:44:53 Recieved message: +70 ✅
+2023-12-04 15:44:53 Recieved message: Reds are losses and blues are gains
+2023-12-04 15:44:53 Recieved message: The color on the right the red one means your trade will hit sl & green one means your trade will hit Tp
+2023-12-04 15:45:04 Recieved message: Red is what you’re loosing and blue is what you’re winning
+2023-12-04 15:46:06 Recieved message: Yes i know the means but how do i get it in color all of mine is in black on white
+2023-12-04 15:46:06 Recieved message: I’m doing exactly what manara  says that I am always losing profit
+2023-12-04 15:46:06 Recieved message: But thanks for the explanation guys ❤️ I just need to get the numbets in colors 😊
+2023-12-04 15:47:06 Recieved message: Why
+2023-12-04 15:48:07 Recieved message: The trades in manara or any trade for the matter doesn't mean you'll always win. Choose trades that are high risk/reward and trades that are in entry or slightly out of entry. Then let it ride
+2023-12-04 15:48:07 Recieved message: Change the background.
+
+I just change from light to dark and all was in color like you see.
+2023-12-04 15:49:06 Recieved message: Also your lot size as well
+2023-12-04 15:49:07 Recieved message: You still need to look at the chart and determine if the trade meets your trading plan or not
+2023-12-04 15:49:49 Recieved message: Did that to and still i didnt get the numbers in color
+2023-12-04 15:49:58 Recieved message: Thanks  family
+2023-12-04 15:57:07 Recieved message: In my MT4 I have just this 3 options.
+
+You can look if you have other settings which you can change your color in your behave.
+2023-12-04 16:02:07 Recieved message: I trade in the MT5 and exact same options I have and yet it doesnt change so weird
+2023-12-04 16:03:06 Recieved message: 
+2023-12-04 16:03:06 Recieved message: Let be than 😊
+2023-12-04 16:03:06 Recieved message: AND AFTER
+2023-12-04 16:03:19 Recieved message: USD INDEX
+2023-12-04 16:15:57 Recieved message: I don’t know if it’s just me but manara is not working, it won’t open up and the last notification I got was Friday.
+2023-12-04 16:19:07 Recieved message: Do the alert thing again to receive notifications for it. It usually stops sending notifications at market close on Friday and sometimes it resumes on its own but sometimes you have to manually reset it.
+2023-12-04 16:25:07 Recieved message: It won’t even open for me to do that, it’s just blank
+2023-12-04 16:27:07 Recieved message: Try open from back office.
+2023-12-04 16:29:07 Recieved message: The telegram channel for manara wont open?
+2023-12-04 16:30:07 Recieved message: Manara itself
+2023-12-04 16:39:49 Recieved message: Oh no! Are you using a live account?
+
+I’m still trying to connect my demo with eacho on MT4 to get the hang of it before going live but still need to connect my broker since I can’t find it on the list.
+
+Other than that- how has it been going for eacho? Any thoughts
+2023-12-04 16:42:26 Recieved message: Fikk nettopp denne kmt😭 folk vet virkelig ikke hva de snakker om 🤣😭
+2023-12-04 16:46:08 Recieved message: Did it ask you to enter a pin?
+2023-12-04 16:49:08 Recieved message: Yes that part is good, it’s just that when I get in it’s blank
+2023-12-04 16:51:55 Recieved message: Still in a demo account with HankoTrade. Sent an email to support so I'll see what they say. Was just curious if anyone else had the same issue. TBH Eacho has been a pain, I've been pulling my hair trying to get it set up and am sending requests and emails daily 😵‍💫
+2023-12-04 17:00:08 Recieved message: Hmmm that’s so strange, maybe you have to close everything out and retry or contact support in your back office and see what they can do.
+2023-12-04 17:01:11 Recieved message: Min is working just fine i am logging in with my phone so maybe you must contact support
+2023-12-04 17:04:08 Recieved message: Yes I just did, they told me to close everything and start over
+2023-12-04 17:08:13 Recieved message: At what time did you “accept” before the trade happen?
+2023-12-04 17:09:08 Recieved message: Hopefully that works for you
+2023-12-04 17:09:08 Recieved message: Yes it did, thanks
+2023-12-04 17:11:01 Recieved message: The notification is just the same as it was before so what should I do to start getting notifications again?
+2023-12-04 17:30:08 Recieved message: Check the settings for notifications if is still the same or not.
+2023-12-04 17:30:38 Recieved message: Tomorrow Tuesday 5th December
+
+https://us06web.zoom.us/j/87041575409?pwd=P9YjLrBcfLqAg0kCu0Os9bV7AtJoi4.1
+2023-12-04 17:32:44 Recieved message: She didn’t accept the trade is what she’s trying to say. We get notifications asking us to “agree for trade execution” through telegram
+2023-12-04 17:33:26 Recieved message: I would definitely be patiently waiting for a tutorial on eacho on how to properly execute trades and such. Would be so beneficial if there is one!
+2023-12-04 17:34:20 Recieved message: Bror han der bor på kommentarfeltet mitt
+2023-12-04 17:34:26 Recieved message: Han vil ikke lære
+2023-12-04 17:34:31 Recieved message: Bare la han være 😂😂
+2023-12-04 17:35:01 Recieved message: HAHAHAH ja😭 jeg knekker sammen av dem
+2023-12-04 17:35:01 Recieved message: Bare spre kjærlighet til alle som hater, de vet ikke bedre ❤️❤️
+2023-12-04 17:35:08 Recieved message: Yes enig
+2023-12-04 17:35:56 Recieved message: Bare vær respektfull mot de, og vis at vi er mennesker også, de endrer attituden fort, mange av dem.
+2023-12-04 17:37:08 Recieved message: Everyone, help me welcome Dr.Monir from Ukraine to the team!!! I’m sure he will achieve all his goals!! U got this💓💪🏼
+2023-12-04 17:38:08 Recieved message: Anyone still in the Nas sell from ploutos ?
+2023-12-04 17:39:09 Recieved message: Has anyone been receiving signals from the manara chat today?
+2023-12-04 17:40:09 Recieved message: Yes
+2023-12-04 17:40:09 Recieved message: 2 trades i think
+2023-12-04 17:40:09 Recieved message: WELCOME WELCOME TO THE TEAM !!!!
+2023-12-04 17:41:01 Recieved message: 🔥🔥🔥🔥
+2023-12-04 17:41:01 Recieved message: Aud cad
+2023-12-04 17:42:09 Recieved message: No
+2023-12-04 17:42:27 Recieved message: How do I add eacho? I’m so confused
+2023-12-04 17:42:40 Recieved message: Ok so it’s not just me…
+2023-12-04 17:42:40 Recieved message: Welcome!!! 🌻
+2023-12-04 17:48:45 Recieved message: I added it to my autoship but I don’t see any videos or information for it
+2023-12-04 18:07:09 Recieved message: Welcome to the team Dr.Monir. 🤗
+2023-12-04 18:24:09 Recieved message: What do y’all use to get the signals? Just manara?
+2023-12-04 18:40:10 Recieved message: Manara and Pluto's channel
+2023-12-04 18:41:10 Recieved message: I usually do my own trades in manara. Pick them I mean
+2023-12-04 18:42:10 Recieved message: for those on the finesse fx on demo did yall put currency USD and what do i put on leverage ?
+2023-12-04 18:43:10 Recieved message: Usd. You can do 1:200 or 1:500. I'm using 1:500 in my live account
+2023-12-04 18:44:10 Recieved message: Where can I find the Pluto’s channel?
+2023-12-04 18:45:10 Recieved message: In the back office. You'll have to purchase for $25. Worth it
+2023-12-04 18:47:10 Recieved message: Can anyone show a live trade w real money ? Very new and pretty lost only practicing in meta trade
+2023-12-04 18:58:10 Recieved message: It's the same concept just with fake money
+2023-12-04 19:02:10 Recieved message: Has anyone had good result using EACHO?
+2023-12-04 19:08:10 Recieved message: For those with finesse which demo do I select ecn demo or zero demo .?
+2023-12-04 19:15:10 Recieved message: I think that is ECN, if I remember correctly. And for live too.
+2023-12-04 19:37:26 Recieved message: Done for today guys 👍 Rest well for tomorrow ☺️ +1030 pips are collected today 💸 Congratulations 🎊
+2023-12-04 19:55:11 Recieved message: That’s what I thought too
+2023-12-04 19:59:11 Recieved message: Oh it is but we all we get there!!
+2023-12-04 19:59:11 Recieved message: Ecn for both live n demo
+2023-12-04 20:03:48 Recieved message: Trade closed +70 👉 Price at entry again

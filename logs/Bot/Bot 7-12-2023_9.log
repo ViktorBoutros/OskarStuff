@@ -1,0 +1,184 @@
+2023-12-07 09:23:02 LogWapper init() ./logs/Bot/Bot 7-12-2023_9.log
+2023-12-07 09:23:02 Starting Tests...
+2023-12-07 09:23:02 parsing msg s = '🆕 BUY JP225 @ 31500 / TPs: 31700 - 31900 - 32100 / SL: 31300'
+2023-12-07 09:23:02 Message parsing successful.
+trade = {'units': 1, 'pair': 'JP225_USD', 'TP': 31700.0, 'SL': 31300.0}
+2023-12-07 09:23:02 parsing msg s = '🆕 SELL USOIL @ 81.50 / TPs: 80.00 - 79.00 - 77.50 / SL: 83.00'
+2023-12-07 09:23:02 Message parsing successful.
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 80.0, 'SL': 83.0}
+2023-12-07 09:23:02 All tests passed!
+
+2023-12-07 09:37:03 Recieved message: Welcome home Jess ! 🫶🏾
+2023-12-07 09:43:03 Recieved message: ❤️❤️
+2023-12-07 10:03:03 Recieved message: Welcome Jess!!
+2023-12-07 11:23:03 Recieved message: Good morning! Can anyone recommend crypto trading platform in the UK that works with new regulations please? for new crypto users basically
+2023-12-07 11:50:06 Recieved message: What broker are you using?
+2023-12-07 11:59:06 Recieved message: Welcome to the team all newcomers. 🤗
+2023-12-07 12:19:05 Recieved message: Hi
+2023-12-07 12:20:05 Recieved message: how much lot is for btc 0.05?
+2023-12-07 12:20:05 Recieved message: account 1500usd
+2023-12-07 12:21:05 Recieved message: 
+2023-12-07 12:56:45 Recieved message: The ecn training videos are not pulling up like before the video arent expanding on to the full screen and its only air play
+2023-12-07 13:09:50 Recieved message: 
+2023-12-07 13:10:21 Recieved message: Omggg, og jeg får ikke min😭 HAHAHAHAH
+2023-12-07 13:10:34 Recieved message: Men good❤️
+2023-12-07 13:10:41 Recieved message: Har du fått appeala Robin?
+2023-12-07 13:10:45 Recieved message: Ja
+2023-12-07 13:10:51 Recieved message: De declina den med engang
+2023-12-07 13:10:51 Recieved message: Legende
+2023-12-07 13:11:03 Recieved message: Wtf sykt as Robin
+2023-12-07 13:11:22 Recieved message: Yeah, men jaja, shit happends HAHAAH
+2023-12-07 13:20:11 Recieved message: Gjerne kommenter en  liten W Carl eller noe stikk til haters under i denne videon: 
+(Det settes stor pris på❤️)
+
+https://vm.tiktok.com/ZGe8r9bTE/
+2023-12-07 14:13:20 Recieved message: https://m.youtube.com/playlist?list=PLxcV3v91tB82lxd0zvwUuis2g1qJrLoGB
+2023-12-07 14:49:22 Recieved message: Anybody else took this gold trade that was sent out? This was on my demo account but STILL! TP 1&2 was hit in just under 5 minutes 🤯 
+
+If so drop your results I would love to see them demo or live! 🙌
+2023-12-07 14:58:22 Recieved message: i got out because i done the complete wrong lot size and made 50€ 😂
+2023-12-07 14:58:38 Recieved message: i over leveraged it by so much on accident 😂😂😂
+2023-12-07 15:04:09 Recieved message: Hey guys I have a question how do I add these blue marks in the trading view and the red marks too like this
+2023-12-07 15:04:09 Recieved message: 
+2023-12-07 15:05:15 Recieved message: Suffering with success, Denny
+2023-12-07 15:08:04 Recieved message: Its an indicator called Smart Money Concepts by LuxAlgo.
+2023-12-07 15:12:09 Recieved message: Can it be found in the trading view ?
+2023-12-07 15:12:16 Recieved message: exactly 😂😂
+2023-12-07 15:12:16 Recieved message: Yes.
+2023-12-07 15:13:09 Recieved message: Okay thanks and if it’s case where it’s been added I only see sell box that means the trade is the sell section right ?
+2023-12-07 15:14:09 Recieved message: If your using the free version they only allow 2 indicators.
+2023-12-07 15:14:09 Recieved message: Okay understood I think it’s the free version though
+2023-12-07 15:15:09 Recieved message: Usually it shows both sell amd buy opportunities. When it's in the blue box look for buy opportunities, when it hits the red box look for sell opportunities. Always have more than one method of confirmation though.
+2023-12-07 15:16:09 Recieved message: Oh okay but I just added it only seeing sell boxes
+2023-12-07 15:17:09 Recieved message: Red?
+2023-12-07 15:18:09 Recieved message: Has anybody tried new product echo or whatever is called
+2023-12-07 15:26:36 Recieved message: A win is still a win! 🏆
+2023-12-07 15:27:39 Recieved message: Hey I’m gonna drop a video please listen 👂 this might help everyone for a next time around if they over leverage! 💕
+2023-12-07 15:28:15 Recieved message: 
+2023-12-07 15:35:09 Recieved message: .01 per $100 is a good guide
+2023-12-07 15:36:09 Recieved message: Several have.  Haven’t heard anything really good about it yet
+2023-12-07 15:37:09 Recieved message: If you just added it, it may take some time to get up to speed.  Give it time.
+2023-12-07 15:37:09 Recieved message: Have had no movement with it whatsoever, have multiple support tickets open since starting week but still no word
+2023-12-07 15:37:09 Recieved message: Okay
+2023-12-07 15:48:10 Recieved message: I have had some success with Eacho
+2023-12-07 15:50:10 Recieved message: 👀
+2023-12-07 15:51:10 Recieved message: How does it work. Like manara?
+2023-12-07 15:55:55 Recieved message: What happens for me is everyday at around 4 oclock Cali time i get a notification on here asking to agree to let Eacho Trade on my behalf and thats the only thing i have to click for the trades to come through. Yesterday i had 4 come through and 3 of them won however last night i had 3 come through that lost. also i noticed if you do any activity on the MT4 account that Eacho is attached to Eacho will pause. Doenst matter what activity is like canceling an order or placing a trade Eacho will pause. I learned that the hard way when i was trading on it thinking it was my other account and i didnt get any trades from Eacho for like a week and a half.
+2023-12-07 15:58:10 Recieved message: Hold the phone…you’re saying that for Eacho to work, you can trade yourself as well?
+2023-12-07 15:58:10 Recieved message: NOT ON THE SAME MT4 IT WILL PAUSE
+2023-12-07 15:59:10 Recieved message: I was waiting for Eacho to work with MT5 but I don’t intend to stop trading. That’s a deal breaker for me. Tisk tisk. They didn’t mention that in the call when they were pitching it.
+2023-12-07 15:59:10 Recieved message: No wonder it was pausing for me smh, yeah they definitely never mentioned that.
+2023-12-07 15:59:10 Recieved message: hold on let me send a voice clip
+2023-12-07 16:01:10 Recieved message: 
+2023-12-07 16:02:10 Recieved message: 
+2023-12-07 16:03:10 Recieved message: Just create a special account for Eacho, that's what I did.
+2023-12-07 16:03:10 Recieved message: same
+2023-12-07 16:04:10 Recieved message: For me Eacho just seems like the lazy man’s way of entering trades.  Like all it seems to me is that instead of me hitting JPYUSA - execute….it does it for me.  
+
+Have yet to actually hear any success stories (including P\L)
+2023-12-07 16:05:10 Recieved message: Ehhh…I think I’m out. That did it for me.
+
+I think I’ve been mildly successful  up enough on my own so far.
+2023-12-07 16:06:10 Recieved message: That's the point of automated trading
+2023-12-07 16:06:10 Recieved message: Is that Eacho or your own trading?
+2023-12-07 16:07:10 Recieved message: Not everyone has time to enter trades themselves or analyze
+2023-12-07 16:07:10 Recieved message: Its only lazy is Eacho is all they rely on. How i see it is this: Eacho runs in the background while you trade on your normal account. im treating it like a savings account while i build my main account
+2023-12-07 16:07:10 Recieved message: That’s my own trading. Which is why I don’t want to stop to let Eacho take over. I thought it was supposed to take trades with me not in place of me.
+2023-12-07 16:07:10 Recieved message: This was just Eacho ?
+2023-12-07 16:08:04 Recieved message: No. Me.
+2023-12-07 16:08:04 Recieved message: If you already have eacho, you could just create another account with the profits of your own trading. Just a thought. You're doing great!
+2023-12-07 16:09:11 Recieved message: So is like EA robot trading for you
+2023-12-07 16:09:11 Recieved message: I would let Eacho run on another MT4 while you trade on your main one
+2023-12-07 16:09:11 Recieved message: Did you have to upload some files on Mt4
+2023-12-07 16:09:11 Recieved message: Gotcha.  So again not really seeing the Eacho results that were so hyped up about
+2023-12-07 16:09:28 Recieved message: 3 wins and 3 losses is not the 80% reported
+2023-12-07 16:09:38 Recieved message: Just your Meta Trader info
+2023-12-07 16:09:38 Recieved message: I did. I could kick myself for my closing at 300 PIPS
+2023-12-07 16:10:10 Recieved message: Thanks, I just don’t want to make another deposit and have another account to look after. It seems like a lot of effort for not a lot of payoff. I’ve had one eacho trade that failed so I was on the fence about it to begin with.
+2023-12-07 16:11:10 Recieved message: Also I’ve switched fully to MT5 so as of yet it’s still not available with MT5 anyway. 🤷‍♂️
+2023-12-07 16:12:10 Recieved message: I think you need to give it some time but sounds is good
+2023-12-07 16:20:50 Recieved message: 1000 PIPS🤯
+2023-12-07 16:37:11 Recieved message: 
+2023-12-07 16:37:11 Recieved message: How can I withdraw on vantage?
+2023-12-07 16:40:11 Recieved message: Yea
+2023-12-07 16:41:11 Recieved message: What lot size should I use for 5,000.00 trading accounts
+2023-12-07 16:41:11 Recieved message: Looks like a call to customer service might be needed
+2023-12-07 16:41:11 Recieved message: .01 per $100
+2023-12-07 16:41:11 Recieved message: From Masari….
+
+Important Notice: Platform Upgrade and Migration
+Dear Valued Clients,
+ 
+I hope this message finds you well. We are writing to inform you of an upcoming critical upgrade and migration of our platform scheduled for this weekend.
+ 
+As part of our ongoing commitment to enhancing your trading experience, we have been diligently working on transitioning to MetaTrader 5 (MT5) due to the discontinuation of MT4 across various brands within the industry. We are excited to announce that we have found a solution that we believe will significantly enhance your trading journey with us.
+ 
+ 
+Please note that this process is intricate and time-intensive. To ensure a seamless transition, we will be pausing all trading activities two hours before the market closes on Friday, December 8th. While our team will exert every effort to migrate all accounts to MT5 with our partner brand before the market reopens on Sunday, we must emphasize that successful migration within this timeframe cannot be guaranteed.
+ 
+During the migration period, all open trades will be transferred; however, the ability to add or close positions will be temporarily restricted. We strongly recommend setting stop-loss and take-profit levels on existing trades or closing positions before the trading pause to mitigate any potential inconvenience.
+ 
+Upon completion of the migration, detailed instructions on accessing your trades within the new MT5 accounts will be sent to your registered email addresses promptly.
+ 
+We are committed to keeping you informed throughout this transition and will provide regular updates via email. Your attention to these communications will be crucial in staying abreast of the progress made during this transition phase.
+ 
+Thank you for your understanding and cooperation as we endeavor to bring you an improved trading platform. Should you have any queries or require further assistance, please do not hesitate to reach out to our support team.
+ 
+Best regards,
+The Masari Team
+2023-12-07 16:42:11 Recieved message: No more than .5 TOTAL in open trades
+2023-12-07 16:42:11 Recieved message: 
+2023-12-07 16:43:11 Recieved message: Okay
+2023-12-07 16:46:11 Recieved message: 
+2023-12-07 16:46:11 Recieved message: Sorry I didn't see someone is posted already
+2023-12-07 16:54:05 Recieved message: Velkommen Marcin!
+2023-12-07 16:54:36 Recieved message: Velkommen Marcin💫
+2023-12-07 16:54:59 Recieved message: Velkommen 😍😍
+2023-12-07 16:55:20 Recieved message: Velkommen
+2023-12-07 16:55:22 Recieved message: Velkommen💛
+2023-12-07 16:55:31 Recieved message: 1000 pips what?
+2023-12-07 16:55:46 Recieved message: Velkommen🫶🏽
+2023-12-07 16:56:01 Recieved message: Velkommen ❤️
+2023-12-07 16:57:03 Recieved message: I was looking at Angel’s Demo account and she earned almost 1000 PIPS from one trade
+2023-12-07 16:58:31 Recieved message: as far as i know all the pips added up on the gold trade are 139 pips total
+2023-12-07 16:58:54 Recieved message: or are you including lot size?
+2023-12-07 17:00:07 Recieved message: I saw the 98.60 US on her account and thought that was 1000 PIPS
+2023-12-07 17:01:03 Recieved message: the pips you gai. arent defined by how much money you make, they represent the general movement of a trade, gold in this case
+2023-12-07 17:01:25 Recieved message: for example 2020 to 2021 is 10 pips as far as i know
+2023-12-07 17:01:48 Recieved message: so 2020 to 2030 would be 100 and 2020 to 2120 would be 1000 pips
+2023-12-07 17:02:22 Recieved message: but i see where youre coming from
+2023-12-07 17:37:35 Recieved message: 
+2023-12-07 17:38:23 Recieved message: I’ve been studying and placing trades exclusively with gold for the past two weeks. I’m obsessed with how it moves! 😆😍 this was today from the gold alert we got sent.
+2023-12-07 17:39:27 Recieved message: I could’ve held on longer… because it plummeted all the way down to 2020. But I digress. This is amazing progress regardless.
+2023-12-07 17:48:48 Recieved message: 
+2023-12-07 17:54:27 Recieved message: Aweee you are too sweet! Thank you :) these are my results on demo so far but I’ve been consistently profitable for two weeks now as I’m building my skills. It’s a promising trajectory!
+2023-12-07 17:55:06 Recieved message: Live or demo it’s still profit! 🙌💕
+2023-12-07 17:56:12 Recieved message: Oh my goodness 😳 tell me the secret lol just kidding. This Is awesome 👌
+2023-12-07 17:56:34 Recieved message: One thing that really encouraged me was I did my own analysis this morning, and it was for the exact movement that was later called out as a trade idea by the experts that served as double confirmation. it was awesome .
+2023-12-07 17:57:13 Recieved message: Absolutely! I’m seriously flabbergasted that the only thing between me and actually withdrawing those kind of profits is that the account happenedDDD to not be live !! 🤣😍
+2023-12-07 17:57:29 Recieved message: Because with these kinds of results, you know that the potential is there
+2023-12-07 18:19:42 Recieved message: This is the email I got from hankotrade
+2023-12-07 18:19:46 Recieved message: 
+2023-12-07 18:20:26 Recieved message: Now the next question is.. if not MT4 for eacho, which one?
+2023-12-07 18:20:50 Recieved message: Yes we are aware! New broker will be sent out shortly and we will schedule a zoom call to explain everything!
+2023-12-07 18:21:18 Recieved message: Thanks Karen!
+2023-12-07 18:21:34 Recieved message: Hey, is that call going to be linked here tonight??
+2023-12-07 18:27:16 Recieved message: IMPORTANT ZOOM CALL FOR ALL CUSTOMERS🚨‼️ 
+
+Tonight @ 7PM PST (pls convert it to your time) 
+
+https://us02web.zoom.us/j/83403025354
+2023-12-07 18:32:12 Recieved message: EVERYONE PLEASE BE ON THIS CALL TONIGHT ! WE WILL BE LAUNCHING THE NEW OFFICIAL BROKER
+2023-12-07 18:32:59 Recieved message: I’ll be there ! 🫡
+2023-12-07 18:34:45 Recieved message: TP1 +100 ✅
+2023-12-07 18:36:24 Recieved message: Yay! 🤩🥳
+2023-12-07 18:39:23 Recieved message: Question. With everything that’s been going on & with a possible switch of broker, should I still fund my Hankotrade account? Or should I wait?
+2023-12-07 18:46:02 Recieved message: Pls wait!
+2023-12-07 18:46:22 Recieved message: Definitely wait until tonight’s call ☺️
+2023-12-07 18:46:39 Recieved message: Perfect! thank you!
+2023-12-07 18:58:57 Recieved message: Trade closed @ TP1 👉 Price at entry again
+2023-12-07 19:12:44 Recieved message: P. S. Gold reached 2019.9 my btoker price. In case yours didn't reach hold on and close in any suitable profit. Will sell many times again.
+2023-12-07 19:59:15 Recieved message: It’s okay thanks
+2023-12-07 20:08:30 Recieved message: 
+2023-12-07 20:08:58 Recieved message: Thank you ❤️
+2023-12-07 20:09:27 Recieved message: 

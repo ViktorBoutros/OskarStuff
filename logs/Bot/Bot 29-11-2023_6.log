@@ -1,0 +1,264 @@
+2023-11-29 06:24:52 LogWapper init() ./logs/Bot/Bot 29-11-2023_6.log
+2023-11-29 06:24:52 Starting Tests...
+2023-11-29 06:24:52 parsing msg s = '🆕 BUY JP225 @ 31500 / TPs: 31700 - 31900 - 32100 / SL: 31300'
+2023-11-29 06:24:52 Message parsing successful.
+trade = {'units': 1, 'pair': 'JP225_USD', 'TP': 31700.0, 'SL': 31300.0}
+2023-11-29 06:24:52 parsing msg s = '🆕 SELL USOIL @ 81.50 / TPs: 80.00 - 79.00 - 77.50 / SL: 83.00'
+2023-11-29 06:24:52 Message parsing successful.
+trade = {'units': -1, 'pair': 'BCO_USD', 'TP': 80.0, 'SL': 83.0}
+2023-11-29 06:24:52 All tests passed!
+
+2023-11-29 06:42:52 Recieved message: Neither did I! Trying to make sure I’m doing everything correctly but welcome
+2023-11-29 06:46:18 Recieved message: 
+2023-11-29 06:46:49 Recieved message: Deilig profit å våkne til☺️
+2023-11-29 06:46:49 Recieved message: Welcome 😊
+2023-11-29 06:47:30 Recieved message: Welcome to the Newbies 🙂
+2023-11-29 06:48:42 Recieved message: Oooo EMELIEEE
+2023-11-29 06:48:46 Recieved message: 🙌🏼😍
+2023-11-29 07:21:44 Recieved message: Eyyyyy, våkna med mad profit selv her😮‍💨
+2023-11-29 07:22:04 Recieved message: 
+2023-11-29 07:22:05 Recieved message: Deilig start på dagen det😎
+2023-11-29 07:22:12 Recieved message: Bestefølelsen
+2023-11-29 07:24:52 Recieved message: https://www.tiktok.com/@robin.westby?_t=8hl86ZL33BJ&_r=1
+2023-11-29 07:25:04 Recieved message: Alle sjekk ut tiktoken mkn, har begynt å poste aktivt🫶🏻
+2023-11-29 07:25:18 Recieved message: Hadde satt pris på hver eneste like for algoritmen
+2023-11-29 07:25:41 Recieved message: Teach me your ways folkens!🙌🏼 dere er rå
+2023-11-29 07:26:12 Recieved message: Du vet du kan reache ut til meg når som helst på tele og insta🫶🏻 as i told you
+2023-11-29 07:26:33 Recieved message: Samme gjelder alle andre som trenger hjelp eller vis dere føler dere stuck🫶🏻
+2023-11-29 07:29:36 Recieved message: https://instagram.com/robin.westby?utm_source=qr
+2023-11-29 07:29:40 Recieved message: Instaen🫶🏻
+2023-11-29 07:32:08 Recieved message: Trade closed +100 👉 Price at entry again
+2023-11-29 07:46:46 Recieved message: 🆕 SELL GOLD @ 2042 / TPs: 2030 - 2020 / SL:  2052
+2023-11-29 07:46:46 Creating trade...
+2023-11-29 07:46:46 parsing msg s = '🆕 SELL GOLD @ 2042 / TPs: 2030 - 2020 / SL:  2052'
+2023-11-29 07:46:46 Error fetching SL.
+line = ['🆕', 'SELL', 'GOLD', '@', '2042', '/', 'TPs:', '2030', '-', '2020', '/', 'SL:', '', '2052']
+idx = 12
+line[idx] = ''
+2023-11-29 07:46:46 Error. FAILED trade parsing of string
+event.raw_text = '🆕 SELL GOLD @ 2042 / TPs: 2030 - 2020 / SL:  2052'
+2023-11-29 08:05:53 Recieved message: still in
+2023-11-29 08:06:53 Recieved message: Delete
+2023-11-29 08:07:53 Recieved message: GBPJPY —-Small lot
+Buy now @ 187.116
+SL @  (-90pips)
+TP 1@  (+120pips)
+TP 2 @ later
+2023-11-29 08:17:53 Recieved message: 
+2023-11-29 08:49:23 Recieved message: Gratulerer med råbra resultat i dag folkens!
+2023-11-29 08:50:03 Recieved message: 🫶🏻🫶🏻
+2023-11-29 08:50:03 Recieved message: Snart vil vi alle sammen ha det!
+2023-11-29 09:10:36 Recieved message: Hey guys 👋🏼 having a problem with my Hankotrade. The deposit was approved but I can’t seem to transfer to my trading account. Help 😭
+2023-11-29 09:21:09 Recieved message: 
+2023-11-29 09:52:17 Recieved message: Anyone here riding out the gold trade????
+2023-11-29 09:52:46 Recieved message: yessir
+2023-11-29 09:52:47 Recieved message: yes we are
+2023-11-29 10:15:55 Recieved message: Welcome😂😂
+2023-11-29 10:32:56 Recieved message: As usual ,make sure to move SL to entry after 30-40pips and close 20% to 30%
+2023-11-29 11:02:23 Recieved message: How can my cousin join if he’s only 16 in Europe?
+2023-11-29 11:02:40 Recieved message: Sooo good
+2023-11-29 11:16:48 Recieved message: Welcome Jerry
+2023-11-29 11:40:56 Recieved message: Girl me too! So I apologize in advance if I ask a lot of questions! 😅
+2023-11-29 11:41:56 Recieved message: You and me both! Lol
+2023-11-29 13:12:58 Recieved message: Can someone tell me if I make good analysis on XAG/USD:
+https://www.tradingview.com/x/ajcF7Zx7/
+
+Entry is: 24.750 - 24.650
+SL: 24.950
+TP1: 24.250
+TP2: 23.750
+
+I still figure out how to find good entry. Any help will welcome.
+2023-11-29 13:17:58 Recieved message: Is this a sell
+2023-11-29 13:23:13 Recieved message: Are people still in the gold?
+2023-11-29 13:31:58 Recieved message: Guys , do y’all have access to the eca?
+2023-11-29 13:32:23 Recieved message: Trying to login myself but it’s not working
+2023-11-29 13:32:58 Recieved message: we logged in yesterday and we got trough
+2023-11-29 13:33:58 Recieved message: saw all new vids
+2023-11-29 13:33:58 Recieved message: Same here , but now it’s not working again
+2023-11-29 13:33:58 Recieved message: ah ok we did logged in this morning let me check
+2023-11-29 13:33:58 Recieved message: Yes,it's sell.
+
+I still try to figure out to find good entry, so I'm asking for opinion.
+2023-11-29 13:33:58 Recieved message: Thank you ☺️
+2023-11-29 13:36:58 Recieved message: i got trough but is very slow though
+2023-11-29 13:36:58 Recieved message: uploading vids is veeeerrrrry slow
+2023-11-29 13:36:58 Recieved message: but i got trough
+2023-11-29 13:37:58 Recieved message: Yes I had the same problem I can access with very slow uploading the backoffice but not eca.. and when I try to set my password it says no account found 😅
+2023-11-29 13:37:58 Recieved message: Thank you tho, appreciate it!xx
+2023-11-29 13:37:58 Recieved message: ow i entered eca as well
+2023-11-29 13:44:58 Recieved message: Oh okay . That’s weird … I’ll wait a bit and otherwise I’ll text support
+2023-11-29 13:47:23 Recieved message: try logging out and logging in after a while
+2023-11-29 13:50:58 Recieved message: Does anyone know if you have to set up a free trial on Trading  view. To use the indicators.
+2023-11-29 13:58:58 Recieved message: no just open and use it💁‍♀️
+2023-11-29 14:00:58 Recieved message: 👍. Everytime I try to use the “wave trend with crosses [lazy bear]” indicator. It what’s me to update the account to access it.
+2023-11-29 14:00:59 Recieved message: you need to remove some of the one you have open. you can only have 2 at a time
+2023-11-29 14:01:58 Recieved message: Oh okay that’s probably the issue. Thank you
+2023-11-29 14:02:23 Recieved message: Yup that was it🫡
+2023-11-29 14:16:59 Recieved message: Same, are you also not able to watch Ralph’s training vids? I only seen 3 of them and don’t know which date they are or anything.
+2023-11-29 14:17:59 Recieved message: I can’t even enter the e-card … just saw it yesterday quick , they changed everything and that’s it
+2023-11-29 14:17:59 Recieved message: I was having the same issue.
+2023-11-29 14:18:22 Recieved message: Is anyone else having trouble entering their TradeLocker account?
+2023-11-29 14:21:59 Recieved message: For those trading us30, do you use mt4 or mt5?
+2023-11-29 14:21:59 Recieved message: Mt4
+2023-11-29 14:23:59 Recieved message: Yeah it looks completely different.
+2023-11-29 14:24:54 Recieved message: Does anyone’s mt4,5 say instant execution. Rather than market execution like everyone else.
+2023-11-29 14:24:59 Recieved message: At least you have access 😅
+2023-11-29 14:25:59 Recieved message: I did before but now I don’t, spoke too soon 😂
+2023-11-29 14:25:59 Recieved message: 😂😂😂 … let’s hope we’ll be able to access soon
+2023-11-29 14:26:59 Recieved message: Mines say market execution
+2023-11-29 14:26:59 Recieved message: Mine does but I use mt5
+2023-11-29 14:28:59 Recieved message: MT4 mobile don’t even work for most anymore. It’s becoming outdated
+2023-11-29 14:28:59 Recieved message: Feel like I’m the only one that’s says instant execution. Everyone else has market. 🤔 does it make a difference
+2023-11-29 14:28:59 Recieved message: Yea  I’m using mT5
+2023-11-29 14:28:59 Recieved message: But even on my mt4 it says instant instead of market.
+2023-11-29 14:28:59 Recieved message: Not me trading 5
+2023-11-29 14:29:59 Recieved message: I don’t think I ever seen instant execution before 🤔
+2023-11-29 14:29:59 Recieved message: Dang that’s weird
+2023-11-29 14:29:59 Recieved message: Hmmm hopefully someone with more experience can answer that.
+2023-11-29 14:30:59 Recieved message: It may not make a difference but you never know.
+2023-11-29 14:31:59 Recieved message: Yea hopefully.
+2023-11-29 14:33:59 Recieved message: https://justmarkets.com/trading/market-execution#:~:text=At%20Instant%20Execution%2C%20the%20broker,without%20confirmation%20of%20the%20trader.
+2023-11-29 14:33:59 Recieved message: Maybe there is something with ur broker?
+2023-11-29 14:37:00 Recieved message: So after reading there is a slight difference. Maybe it could be I don’t have a broker in mt5 yet I’m still using the mt5 demo
+2023-11-29 14:37:59 Recieved message: 
+2023-11-29 14:37:59 Recieved message: Nvm it makes a big difference
+2023-11-29 14:39:54 Recieved message: Ah maybe why than because of its a demo acc i had that also but now i am trading live
+2023-11-29 14:40:59 Recieved message: Ahh okay
+2023-11-29 14:41:59 Recieved message: Anyone who is currently using Masari … how are you working your live account ? I cannot add Masari as a broker to MT4 Mobile or MT4 Web .
+2023-11-29 14:45:59 Recieved message: Try MT5
+2023-11-29 14:48:59 Recieved message: I tried too but broker doesn’t show. Look into Nash markets with tradelocker 🙏🏽
+2023-11-29 14:48:59 Recieved message: Just tried again on MT5 and Masari doesn’t come up yet. I don’t think they transferred over yet .
+2023-11-29 14:48:59 Recieved message: Thank you ! 🙏🏼
+2023-11-29 14:57:59 Recieved message: These are links to more of Ralph’s videos. They still don’t have the more recent videos uploaded yet
+2023-11-29 15:02:03 Recieved message: Someone?
+2023-11-29 15:09:43 Recieved message: yes
+2023-11-29 15:14:28 Recieved message: i hit stoploss on gold
+2023-11-29 15:14:41 Recieved message: might wait to it to hit the top again and go into it again
+2023-11-29 15:21:33 Recieved message: Any update on Eacho and Hanko?
+2023-11-29 15:32:59 Recieved message: just realised my mistake with the gold, my stoploss was set to 2043 and not 2052🥲😭😭
+2023-11-29 16:09:00 Recieved message: I can’t even get that far lol
+2023-11-29 16:18:00 Recieved message: Goodmorning . I am trying to access the linkintree and it's giving this error
+2023-11-29 16:19:00 Recieved message: 
+2023-11-29 16:21:00 Recieved message: Hey hey does somebody know if there is a French group here?
+2023-11-29 16:24:00 Recieved message: Hey everyone welcome Edilson to the fam❤️‍🔥❤️‍🔥
+2023-11-29 16:32:01 Recieved message: Welcome to the team Edilson. 🤗
+2023-11-29 17:00:12 Recieved message: Hvilken lotsize calculator bruker folk her?
+2023-11-29 17:00:48 Recieved message: Jeg bruker denne 
+https://www.cashbackforex.com/tools/position-size-calculator?gclid=CjwKCAiAjfyqBhAsEiwA-UdzJIts7za_kPjKqJhTVlzjkIAec5jCtTOLibeV0QFlNqFXh2Jpe5GsuBoC1sAQAvD_BwE
+2023-11-29 17:02:04 Recieved message: takker bro
+2023-11-29 17:04:01 Recieved message: Question: Will a trade ever close on its own or will it keep running indefinitely until it either hits T/P or S/L or if its manually closed?
+2023-11-29 17:05:01 Recieved message: a trade never closes on its own until you close it
+2023-11-29 17:05:01 Recieved message: or hit st
+2023-11-29 17:06:01 Recieved message: Awesome! Thank you!
+2023-11-29 17:06:01 Recieved message: So for a t/p we’ll have to close manually
+2023-11-29 17:06:01 Recieved message: Yes or no
+2023-11-29 17:06:16 Recieved message: Mine have always closed automatically once T/P is hit
+2023-11-29 17:09:01 Recieved message: Tp closes automatically just like sl…you can close manually though before it hits tp or sl
+2023-11-29 17:09:55 Recieved message: If you want the trade to run to T/P2, 3.. ect., then you have to modify the trade and change the T/P limit before it hits and closes correct?
+2023-11-29 17:16:02 Recieved message: Yes that’s correct
+2023-11-29 17:16:02 Recieved message: Thanks Hannah
+2023-11-29 17:16:02 Recieved message: Sometimes people take multiple trades with different take profits for this reason, so that they don’t have to modify in the future.
+2023-11-29 17:16:16 Recieved message: But that’s risky if the trade goes the other way right?
+2023-11-29 17:18:01 Recieved message: Yes it definitely can be. Proper risk management has to be accounted for very well.
+2023-11-29 17:19:01 Recieved message: Gotcha!
+2023-11-29 17:35:50 Recieved message: anyone still in the gold trade?
+2023-11-29 17:40:57 Recieved message: Jupp
+2023-11-29 18:06:04 Recieved message: 
+2023-11-29 18:06:15 Recieved message: Go pro event
+2023-11-29 18:06:26 Recieved message: Hadde glemt den
+2023-11-29 18:06:31 Recieved message: 🏋️‍♀️🏋️‍♀️
+2023-11-29 18:06:36 Recieved message: Niceee
+2023-11-29 18:11:02 Recieved message: Good evening 👋
+2023-11-29 18:21:02 Recieved message: Everyone please help me welcome Princess! Super excited to get started working with you ❤️‍🔥❤️‍🔥
+2023-11-29 18:21:39 Recieved message: welcome!!
+2023-11-29 18:22:02 Recieved message: Mostly welcome!!!
+2023-11-29 18:36:48 Recieved message: GOOD MORNING FAMILY 🌞 and happy Wednesday!
+
+I am also holding the GOLD SELL as well lol let’s be patient and trust the trade 🙌🏾
+
+I hope everyone is doing AMAZING today! Does anyone have any results to share? Whether it be demo or live accounts?
+2023-11-29 18:37:21 Recieved message: We want to see everyone’s progress 🙌🏾
+2023-11-29 18:38:15 Recieved message: i was at 110 positive and then it closed due to stoploss that i input wrongly and then i went back into it and currently at a minus waiting for the trade
+2023-11-29 18:38:27 Recieved message: waiting for the trade to hit take profit
+2023-11-29 18:40:16 Recieved message: it’s important to secure partials when you’re in profit and move SL to entry to BE
+2023-11-29 18:40:24 Recieved message: aka break even 🙌🏾
+2023-11-29 18:41:03 Recieved message: Welcome to the team Princess. 🤗
+2023-11-29 18:42:01 Recieved message: Så gøy! Hvor er det?
+2023-11-29 18:51:05 Recieved message: This was mine yesterday
+2023-11-29 18:51:13 Recieved message: My first 💕
+2023-11-29 18:53:03 Recieved message: Welcome!!!
+2023-11-29 18:53:03 Recieved message: I LOVE IT.
+2023-11-29 18:53:08 Recieved message: is this your live account
+2023-11-29 18:53:54 Recieved message: Yes
+2023-11-29 18:54:16 Recieved message: I took advantage of the bonus Hanko offered so that’s the credit. They matched my deposit.
+2023-11-29 18:54:36 Recieved message: Also, just keep in mind for future purposes 🙌🏾 your lot size is way too high for account balance
+
+If your account size is $200+ your max lot size is supposed to be 0.02 to manage risk properly 🙏🏾
+2023-11-29 18:55:15 Recieved message: Ok thank you 🙏🏾
+2023-11-29 18:57:03 Recieved message: Welcome!!
+2023-11-29 19:02:45 Recieved message: Det er på zoom
+2023-11-29 19:05:03 Recieved message: Welcome.!!!!!!!!!!🧸
+2023-11-29 19:17:33 Recieved message: Woowww. I just read this. This was a 50/50 roll of the dice but it paid out😳😱🤯
+2023-11-29 19:25:09 Recieved message: 📣 Important Announcement Regarding Eacho
+
+Dear Valued Eaconomy Members,
+
+We hope this message finds you well. At Eaconomy, we strive to provide you with the best trading experience, and your satisfaction is our top priority.
+
+We understand that some specific brokers are currently unavailable on our platform. Please rest assured that we are actively working to expand our broker options to enhance your trading opportunities. In the meantime, we kindly encourage you to submit any specific broker requests to our dedicated support department. Your input is invaluable as we continue to grow and improve our platform.
+
+Additionally, for those of you who purchased Eacho before November 29, please note that your Eacho autoship will be postponed for an additional 2 weeks from your subscription expiration date. Only Eacho, not any other product packs you are currently paying for. 
+
+We appreciate your understanding as we work towards creating the optimal trading environment for all our members.
+
+Eaconomy is committed to delivering an unparalleled experience, and we are diligently addressing any challenges to ensure your satisfaction. Should you have any questions or concerns, our support department is ready to assist you.
+
+Thank you for your continued trust and partnership with Eaconomy. Together, we are building a thriving community of successful traders.
+
+Best regards,
+
+Hassan Mahmoud
+Founder & CEO
+Eaconomy
+2023-11-29 19:49:04 Recieved message: Welcome! 🥰
+2023-11-29 19:59:54 Recieved message: What about Nash markets
+2023-11-29 20:07:02 Recieved message: what’s Nash markets?
+2023-11-29 20:07:33 Recieved message: 😊
+2023-11-29 20:08:17 Recieved message: HIIII YSELA 🤗
+2023-11-29 20:08:21 Recieved message: welcome in!!!
+2023-11-29 20:08:33 Recieved message: Thank you
+2023-11-29 20:09:21 Recieved message: A broker
+2023-11-29 20:10:11 Recieved message: I’ve personally never used it. We’re using HankoTrade
+2023-11-29 20:13:22 Recieved message: https://www.myfxbook.com/forex-calculators/position-size
+2023-11-29 20:14:06 Recieved message: Krystal 🇺🇸 @liuxk
+2023-11-29 20:15:14 Recieved message: 
+2023-11-29 20:15:31 Recieved message: 
+2023-11-29 20:19:14 Recieved message: Okay, sounds good! When you mean integrated - do we still have to log into eacho ai dashboard and add our metatrader with hankotrade? Just needed clarification.  Thanks!
+2023-11-29 20:37:08 Recieved message: 
+2023-11-29 20:38:16 Recieved message: YAY!
+2023-11-29 20:40:12 Recieved message: I did get an email couple hours ago regarding the implementation of eacho. Please definitely update us on when we will be able to view it on eacho ai dashboard when it becomes live so I can add MT4! 🙏
+2023-11-29 20:41:19 Recieved message: Need help! I’m trying to link up Hankotrade to Meta Trader 4. So I can start my demo account. Any instructions any body?
+2023-11-29 21:00:05 Recieved message: Welcome!!!
+2023-11-29 21:04:05 Recieved message: There is. One vision : francophone
+2023-11-29 21:15:52 Recieved message: I got them from the linktree step 9
+2023-11-29 21:27:02 Recieved message: what price did the signal of gold SELL trade start in 1V empire trades? around 2038?
+2023-11-29 21:33:19 Recieved message: 2043 was the entry price
+2023-11-29 21:33:27 Recieved message: I got it thanks
+2023-11-29 21:34:05 Recieved message: Xauusd, 5 min chart... Anyone else seeing the head and shoulders?
+You think we are going to have a downhill slope or is gold too resilient to let that happen?
+2023-11-29 21:36:05 Recieved message: What is the percentage that a broker takes?
+2023-11-29 22:13:43 Recieved message: is the gold market closed? or is it just not moving for me at all?
+2023-11-29 22:20:14 Recieved message: I think it’s not moving
+2023-11-29 22:20:24 Recieved message: The market is closed
+2023-11-29 22:20:42 Recieved message: But you will see movement again in a couple of hours
+2023-11-29 22:20:48 Recieved message: Ooh okay
+2023-11-29 22:20:50 Recieved message: The session is closed it will reopen soon
+2023-11-29 22:27:45 Recieved message: i see hankotrade on eacho now
+2023-11-29 22:28:07 Recieved message: YASSSS FINALLY
+2023-11-29 22:28:15 Recieved message: everyone connect Eacho 2
+2023-11-29 22:28:26 Recieved message: I’ve heard good things about Eacho 1 and 2
+2023-11-29 22:28:45 Recieved message: MetaTrader 4 or 5?
+2023-11-29 22:32:05 Recieved message: 4. It only gives the option MT4 for me. MT5 is for live manual trading
+2023-11-29 22:33:33 Recieved message: Also, what is the recommended that we input for "maximum trades" and "equity protector %"
+2023-11-29 22:43:04 Recieved message: Same just wondering if I did it right

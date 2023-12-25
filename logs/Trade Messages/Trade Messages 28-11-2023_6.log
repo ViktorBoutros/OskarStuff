@@ -1,0 +1,3 @@
+2023-11-28 06:31:49 LogWapper init() ./logs/Trade Messages/Trade Messages 28-11-2023_6.log
+2023-11-28 17:37:48 SUCCESS: 🆕 SELL US30 @ 35440 / TPs: 35300 - 35150 - 35000 / SL: 35550
+{'units': -1, 'pair': 'US30_USD', 'TP': 35300.0, 'SL': 35550.0}

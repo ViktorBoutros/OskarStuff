@@ -1,0 +1,3 @@
+2023-11-27 09:06:03 LogWapper init() ./logs/Trade Messages/Trade Messages 27-11-2023_9.log
+2023-11-27 16:43:23 SUCCESS: 🆕 BUY GOLD @ 2007 / TPs: 2020 - 2030 - 2040 / SL: 1992
+{'units': 1, 'pair': 'XAU_USD', 'TP': 2020.0, 'SL': 1992.0}

@@ -1,0 +1,4 @@
+2023-12-04 09:40:58 LogWapper init() ./logs/Oanda Bot/Oanda Bot 4-12-2023_9.log
+2023-12-04 11:01:14 set_sl_tp() : ERROR placing TAKE_PROFIT
+status_code = 404
+json_data = None
